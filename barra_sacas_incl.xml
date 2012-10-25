@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="album sacas - barra di navigazione" />
+<Content type="html"><![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<style type="text/css">
+body {margin:0; padding:0;}
+table {border-collapse:collapse;}
+table, td {text-align:center; padding:0px; border:1px solid #330000; background-color:#660000;}
+th {padding:0px; border:1px solid #330000; background-color:#003300;}
+a, a:visited {display:block; font:bold 12px Verdana; color:#FFFFFF; background-color:transparent;
+padding:5px 6px; text-decoration:none; outline:none;}
+a:hover, a:focus {background-color:#transparent;}
+th:hover, td:focus {background-color:#336600;}
+td:hover, td:focus {background-color:#336600;}
+</style>
+</head>
+<body>
+<div id="barra">
+<table height="50px" width="100%">
+<tr>
+<th><a href="https://www.google.com/chart?chc=sites&amp;cht=d&amp;chdp=sites&amp;chl=%5B%5BGoogle+Gadget'%3D20'f%5Cv'a%5C%3D0'10'%3D499'0'dim'%5Cbox1'b%5CF6F6F6'fC%5CF6F6F6'eC%5C0'sk'%5C%5B%22Sacas:+album%22'%5D'a%5CV%5C%3D12'f%5C%5DV%5Cta%5C%3D10'%3D0'%3D500'%3D597'dim'%5C%3D10'%3D10'%3D500'%3D597'vdim'%5Cbox1'b%5Cva%5CF6F6F6'fC%5CC8C8C8'eC%5C'a%5C%5Do%5CLauto'f%5C&amp;sig=jMTpswQjepDCEALsZIAYmCgaZ7A" data-igsrc="http://130.gmodules.com/ig/ifr?mid=130&amp;synd=trogedit&amp;url=https%3A%2F%2Finformatica-urbino.googlecode.com%2Fsvn%2Ftrunk%2Fsacas.xml&amp;h=600&amp;w=100%25" data-type="ggs-gadget" data-props="align:left;borderTitle:mio titolo;height:600;igsrc:http#58//130.gmodules.com/ig/ifr?mid=130&amp;synd=trogedit&amp;url=https%3A%2F%2Finformatica-urbino.googlecode.com%2Fsvn%2Ftrunk%2Fsacas.xml&amp;h=600&amp;w=100%25;mid:130;scrolling:no;showBorder:false;showBorderTitle:null;spec:https#58//informatica-urbino.googlecode.com/svn/trunk/sacas.xml;width:100%;">Sacas</a></td>
+<td><a href="https://sites.google.com/site/fanfullacroci/biography?previewAsViewer=1" title="una notina" target="my_frame">una notina</a></td>
+<td><a href="https://sites.google.com/site/fanfullacroci/home?previewAsViewer=1" title="bambole" target="my_frame">bambole</a></td>
+<td><a href="https://sites.google.com/site/fanfullacroci/biography?previewAsViewer=1" title="sacas" target="my_frame">sacas</a></td>
+<td><a href="https://sites.google.com/site/fanfullacroci/home?previewAsViewer=1" title="buchico" target="my_frame">buchico</a></td>
+<td><a href="https://sites.google.com/site/fanfullacroci/biography?previewAsViewer=1" title="nel mondo fuori" target="my_frame">nel mondo fuori</a></td>
+<td><a href="https://sites.google.com/site/fanfullacroci/home?previewAsViewer=1" title="animodomina" target="my_frame">animodomina</a></td>
+<td><a href="https://sites.google.com/site/fanfullacroci/biography?previewAsViewer=1" title="aprite al forno!" target="my_frame">aprite al forno!</a></td>
+<td><a href="https://sites.google.com/site/fanfullacroci/home?previewAsViewer=1" title="libera" target="my_frame">libera</a></td>
+<td><a href="https://www.google.com/chart?chc=sites&amp;cht=d&amp;chdp=sites&amp;chl=%5B%5BGoogle+Gadget'%3D20'f%5Cv'a%5C%3D0'10'%3D499'0'dim'%5Cbox1'b%5CF6F6F6'fC%5CF6F6F6'eC%5C0'sk'%5C%5B%22Goccia+d@'argento%22'%5D'a%5CV%5C%3D12'f%5C%5DV%5Cta%5C%3D10'%3D0'%3D500'%3D597'dim'%5C%3D10'%3D10'%3D500'%3D597'vdim'%5Cbox1'b%5Cva%5CF6F6F6'fC%5CC8C8C8'eC%5C'a%5C%5Do%5CLauto'f%5C&amp;sig=dDFRpjUTY1dJIS5HJRPiqedJ8W0" data-igsrc="http://150.gmodules.com/ig/ifr?mid=150&amp;synd=trogedit&amp;url=https%3A%2F%2Finformatica-urbino.googlecode.com%2Fsvn%2Ftrunk%2Fgoccia_d_argento.xml&amp;h=600&amp;w=100%25" data-type="ggs-gadget" data-props="align:left;borderTitle:Goccia d'argento;height:600;igsrc:http#58//150.gmodules.com/ig/ifr?mid=150&amp;synd=trogedit&amp;url=https%3A%2F%2Finformatica-urbino.googlecode.com%2Fsvn%2Ftrunk%2Fgoccia_d_argento.xml&amp;h=600&amp;w=100%25;mid:150;scrolling:no;showBorder:false;showBorderTitle:null;spec:https#58//informatica-urbino.googlecode.com/svn/trunk/goccia_d_argento.xml;width:100%;">goccia d'argento</a></td>
+</tr>
+</table>
+</div>
+<script type="text/javascript">
+function setImage(el) {
+document.getElementById('largeImage').src = '' + el.href + '';
+}
+function setClass(el) {
+for (var i = 0; i < document.links.length; i++) {
+document.links[i].className = '';
+}
+el.className = 'active';
+}
+for (var i = 0; i < document.links.length; i++) {
+document.links[i].onclick = function () {setImage(this); setClass(this); return false;};
+}
+</script>
+<div id="large">
+	<img id="largeImage" src="https://www.google.com/chart?chc=sites&amp;cht=d&amp;chdp=sites&amp;chl=%5B%5BGoogle+Gadget'%3D20'f%5Cv'a%5C%3D0'10'%3D499'0'dim'%5Cbox1'b%5CF6F6F6'fC%5CF6F6F6'eC%5C0'sk'%5C%5B%22Goccia+d@'argento%22'%5D'a%5CV%5C%3D12'f%5C%5DV%5Cta%5C%3D10'%3D0'%3D500'%3D597'dim'%5C%3D10'%3D10'%3D500'%3D597'vdim'%5Cbox1'b%5Cva%5CF6F6F6'fC%5CC8C8C8'eC%5C'a%5C%5Do%5CLauto'f%5C&amp;sig=dDFRpjUTY1dJIS5HJRPiqedJ8W0" data-igsrc="http://150.gmodules.com/ig/ifr?mid=150&amp;synd=trogedit&amp;url=https%3A%2F%2Finformatica-urbino.googlecode.com%2Fsvn%2Ftrunk%2Fgoccia_d_argento.xml&amp;h=600&amp;w=100%25" data-type="ggs-gadget" data-props="align:left;borderTitle:Goccia d'argento;height:600;igsrc:http#58//150.gmodules.com/ig/ifr?mid=150&amp;synd=trogedit&amp;url=https%3A%2F%2Finformatica-urbino.googlecode.com%2Fsvn%2Ftrunk%2Fgoccia_d_argento.xml&amp;h=600&amp;w=100%25;mid:150;scrolling:no;showBorder:false;showBorderTitle:null;spec:https#58//informatica-urbino.googlecode.com/svn/trunk/goccia_d_argento.xml;width:100%;" width="500" height="600" style="display:block;text-align:left;margin-right:auto;" class="igm">
+</div>
+</body>
+</html>
+]]></Content>
+</Module>

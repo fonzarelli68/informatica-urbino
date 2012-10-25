@@ -33,7 +33,7 @@ td:hover, td:focus {background-color:#336600;}
 <td><a href="https://sites.google.com/site/fanfullacroci/home?previewAsViewer=1" title="goccia d'argento" target="my_frame">goccia d'argento</a></td>
 </tr>
 </table>
-<iframe name="my_frame" id="myframe" src="https://sites.google.com/site/fanfullacroci/home?previewAsViewer=1" width="100%" height="550px" scrolling="yes" frameborder="no"></iframe>
+<iframe name="my_frame" id="myframe" src="http://informatica-urbino.googlecode.com/svn/trunk/sacas.html" width="100%" height="550px" scrolling="yes" frameborder="no"></iframe>
 </body>
 </html>
 ]]></Content>

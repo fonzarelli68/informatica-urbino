@@ -156,49 +156,120 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
  *  PLUGIN BASICS
  *  ------------------------------------------------
  */
-.sliderkit{display:none;position:relative;overflow:hidden;text-align:left;}
-.sliderkit a,
-.sliderkit a:hover{text-decoration:none;}
-.sliderkit a:focus{outline:1px dotted #000;/*optional*/}
-.sliderkit img{border:0;}
+.sliderkit {
+  display:none;
+  position:relative;
+  overflow:hidden;
+  text-align:left;
+}
+.sliderkit a, .sliderkit a:hover {
+  text-decoration:none;
+}
+.sliderkit a:focus {
+outline:1px
+dotted #000;
+/*optional*/
+}
+.sliderkit img {
+  border:0;
+}
 
 /*---------------------------------
  *  Navigation
  *---------------------------------*/
-.sliderkit .sliderkit-nav{z-index:10;position:absolute;text-align:center;}
+.sliderkit .sliderkit-nav {
+  z-index:10;
+  position:absolute;
+  text-align:center;
+}
 
 /* Nav > Clip */
-.sliderkit .sliderkit-nav-clip{position:relative;overflow:hidden;margin:0 auto;}
-.sliderkit .sliderkit-nav-clip ul{position:relative;left:0;top:0;list-style:none;margin:0;padding:0;}
-.sliderkit .sliderkit-nav-clip ul li{float:left;}
-.sliderkit .sliderkit-nav-clip ul li a{display:block;overflow:hidden;}
+.sliderkit .sliderkit-nav-clip {
+  position:relative;
+  overflow:hidden;
+  margin:0 auto;
+}
+.sliderkit .sliderkit-nav-clip ul {
+  position:relative;
+  left:0;
+  top:0;
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+.sliderkit .sliderkit-nav-clip ul li {
+  float:left;
+}
+.sliderkit .sliderkit-nav-clip ul li a {
+  display:block;
+  overflow:hidden;
+}
 
 /*---------------------------------
  *  Buttons
  *---------------------------------*/
-.sliderkit .sliderkit-btn{z-index:10;}
+
+.sliderkit .sliderkit-btn {
+  z-index:10;
+}
 
 /*---------------------------------
  *  Panels
  *---------------------------------*/
-.sliderkit .sliderkit-panel{z-index:1;position:absolute;overflow:hidden;}
-.sliderkit .sliderkit-panel-active{z-index:5;}
-.sliderkit .sliderkit-panel-old{z-index:4;}
+.sliderkit .sliderkit-panel {
+  z-index:1;
+  position:absolute;
+  overflow:hidden;
+}
+.sliderkit .sliderkit-panel-active {
+  z-index:5;
+}
+.sliderkit .sliderkit-panel-old {
+  z-index:4;
+}
 
 /* Panels > Overlay */
-.sliderkit .sliderkit-panel .sliderkit-panel-textbox{position:absolute;z-index:1;}
-.sliderkit .sliderkit-panel .sliderkit-panel-text{position:absolute;z-index:3;top:0;left:0;}
-.sliderkit .sliderkit-panel .sliderkit-panel-overlay{position:absolute;z-index:2;top:0;left:0;}
+.sliderkit .sliderkit-panel .sliderkit-panel-textbox {
+  position:absolute;
+  z-index:1;
+}
+.sliderkit .sliderkit-panel .sliderkit-panel-text {
+  position:absolute;
+  z-index:3;
+  top:0;
+  left:0;
+}
+.sliderkit .sliderkit-panel .sliderkit-panel-overlay {
+  position:absolute;
+  z-index:2;
+  top:0;
+  left:0;
+}
 
 /*---------------------------------
  *  Counter
  *---------------------------------*/
-.sliderkit .sliderkit-count{position:absolute;top:5px;right:5px;z-index:10;padding:5px;color:#fff;background:#000;}
+.sliderkit .sliderkit-count {
+  position:absolute;
+  top:5px;
+  right:5px;
+  z-index:10;
+  padding:5px;
+  color:#fff;
+  background:#000;
+}
 
 /*---------------------------------
  *  Loader
  *---------------------------------*/
-.sliderkit .sliderkit-timer{position:absolute;top:0;left:0;z-index:10;height:3px;background:#ccc;}
+.sliderkit .sliderkit-timer {
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:10;
+  height:3px;
+  background:#ccc;
+}
 
 
 /* This code can be reduced and pasted in any other CSS file :
@@ -248,30 +319,103 @@ Here is a compact version :
 /*---------------------------------
  *  Tabs > Standard
  *---------------------------------*/  
-.tabs-standard{width:100%px;height:550px;}
+.tabs-standard {
+  width:100%px;
+  height:550px;
+}
 
 /* Nav */
-.tabs-standard .sliderkit-nav{position:relative;width:100%;height:22px;text-align:left;}
-.tabs-standard .sliderkit-nav-clip{margin:0;}
-.tabs-standard .sliderkit-nav-clip li{height:22px;padding:0 0 0 5px;margin:0 2px 0 0;}
-.tabs-standard .sliderkit-nav-clip li,
-.tabs-standard .sliderkit-nav-clip li a{float:left;background:none) repeat 0 0 #000;} 
-/* .tabs-standard .sliderkit-nav-clip li a{float:left;background:transparent url("https://lh3.googleusercontent.com/-WS-yLOTQKdU/T9QUdqxMRuI/AAAAAAAAB98/gEQWD1AOGUk/s800/tabs-menu2.gif") no-repeat 0 0;} */
-.tabs-standard .sliderkit-nav-clip li a{height:18px;margin:0;padding:4px 10px 0;font-family:verdana,sans-sarif;font-size:.8em;font-weight:bold;color:#fff;text-decoration:none;background-position:right -23px;}
-.tabs-standard .sliderkit-nav-clip li.sliderkit-selected{background-position:0 -44px;}
-.tabs-standard .sliderkit-nav-clip li.sliderkit-selected a{color:#000;background-position:right -66px;}
+.tabs-standard .sliderkit-nav {
+  position:relative;
+  width:100%;
+  height:22px;
+  text-align:left;
+}
+.tabs-standard .sliderkit-nav-clip {
+  margin:0;
+}
+.tabs-standard .sliderkit-nav-clip li {
+  height:22px;
+  padding:0 0 0 5px;
+  margin:0 2px 0 0;
+}
+.tabs-standard .sliderkit-nav-clip li, .tabs-standard .sliderkit-nav-clip li a {
+  float:left;
+  background:none, repeat 0 0 #000;
+} 
+/* 
+.tabs-standard .sliderkit-nav-clip li a {
+  float:left;
+  background:transparent url("https://lh3.googleusercontent.com/-WS-yLOTQKdU/T9QUdqxMRuI/AAAAAAAAB98/gEQWD1AOGUk/s800/tabs-menu2.gif") no-repeat 0 0;
+  }
+  */
+  
+.tabs-standard .sliderkit-nav-clip li a {
+  height:18px;
+  margin:0;
+  padding:4px 10px 0;
+  font-family: verdana,sans-serif;
+  font-size:.8em;
+  font-weight:bold;
+  color:#fff;
+  text-decoration:none;
+  background-position:right -23px;
+}
+.tabs-standard .sliderkit-nav-clip li.sliderkit-selected {
+  background-position:0 -44px;
+}
+.tabs-standard .sliderkit-nav-clip li.sliderkit-selected a {
+  color:#000;
+  background-position:right -66px;
+}
 
 /* Panel */
-.tabs-standard .sliderkit-panels{width:100%;height:540;overflow:hidden;padding:10px;border:1px solid #336600;background:transparent;}
-.tabs-standard .sliderkit-panel{width:100%;height:550;background:transparent;}
+.tabs-standard .sliderkit-panels {
+  width:100%;
+  height:540px;
+  overflow:hidden;
+  padding:10px;
+  border:1px solid #336600;
+  background:transparent;
+}
+.tabs-standard .sliderkit-panel {
+  width:100%;
+  height:auto;
+  background:transparent;
+}
 
 /* News block */
-.tabs-standard .sliderkit-news h3,
-.tabs-standard .sliderkit-news h3 a{color:#336600;font-family:verdana,sans-sarif;font-weight:bold;}
-.tabs-standard .sliderkit-news h3{font-size:1.0em;margin:0 0 15px;}
-.tabs-standard .sliderkit-news img{float:right;width:130px;height:auto;margin:0 0 0 10px;overflow:hidden;}
-.tabs-standard .sliderkit-news p{color:#336600;font-family:verdana,sans-sarif;font-size:.8em;margin:0;}
-
+.tabs-standard .sliderkit-news h3, .tabs-standard .sliderkit-news h3 a {
+  color:#336600;
+  font-family:verdana,sans-serif;
+  font-weight:bold;
+}
+.tabs-standard .sliderkit-news h4, .tabs-standard .sliderkit-news h4 a {
+  color:#336600;
+  font-family:verdana,sans-serif;
+  font-weight:bold;
+}
+.tabs-standard .sliderkit-news h3 {
+  font-size:1.0em;
+  margin:0 0 15px;
+}
+.tabs-standard .sliderkit-news h4 {
+  font-size:1.0em;
+  margin:0 0 15px;
+}
+.tabs-standard .sliderkit-news img {
+  float:right;
+  width:130px;
+  height:auto;
+  margin:0 0 0 10px;
+  overflow:hidden;
+}
+.tabs-standard .sliderkit-news p {
+  color:#336600;
+  font-family:verdana,sans-serif;
+  font-size:.8em;
+  margin:0;
+}
 </style>
 
 <div class="sliderkit tabs-standard" style="display: block;">

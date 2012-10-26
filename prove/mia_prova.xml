@@ -328,7 +328,7 @@ Here is a compact version :
 .tabs-standard .sliderkit-nav {
   position:relative;
   width:100%;
-  height:22px;
+  height:50px;
   text-align:left;
 }
 .tabs-standard .sliderkit-nav-clip {
@@ -349,7 +349,7 @@ Here is a compact version :
   background:transparent url("https://lh3.googleusercontent.com/-WS-yLOTQKdU/T9QUdqxMRuI/AAAAAAAAB98/gEQWD1AOGUk/s800/tabs-menu2.gif") no-repeat 0 0;
   }
   */
-  
+
 .tabs-standard .sliderkit-nav-clip li a {
   height:18px;
   margin:0;
@@ -365,7 +365,7 @@ Here is a compact version :
   background-position:0 -44px;
 }
 .tabs-standard .sliderkit-nav-clip li.sliderkit-selected a {
-  color:#000;
+  color:#f00;
   background-position:right -66px;
 }
 
@@ -422,9 +422,21 @@ Here is a compact version :
   <div class="sliderkit-nav">
     <div class="sliderkit-nav-clip">
       <ul>
-        <li class="sliderkit-selected"><a title="A proposito di Sacas" href="#">Sacas</a></li>
-        <li><a title="una notina" href="#">una notina</a></li>
-        <li><a title="bambole" href="#">bambole</a></li>
+        <li class="sliderkit-selected">
+          <a title="A proposito di Sacas" href="#">
+            Sacas
+          </a>
+        </li>
+        <li>
+          <a title="una notina" href="#">
+            una notina
+          </a>
+        </li>
+        <li>
+          <a title="bambole" href="#">
+            bambole
+          </a>
+        </li>
         <li><a title="sacas" href="#">sacas</a></li>
         <li><a title="buchico" href="#">buchico</a></li>
         <li><a title="nel mondo fuori" href="#">nel mondo fuori</a></li>
@@ -438,20 +450,42 @@ Here is a compact version :
 <div class="sliderkit-panels">
   <div class="sliderkit-panel sliderkit-active">
     <div class="sliderkit-news">
-                         <a title="A proposito di Sacas" href="javascript:window.open('http://www.chscottenterprises.com/home/about-us');_self"><img alt="About Us Image" src="https://lh5.googleusercontent.com/-dRebc1ephf8/T9ICY9uXpcI/AAAAAAAAB68/TpbeoDLNcTQ/s144/About_Us_Image.png"></a>
-                         <h3><a href="javascript:window.open('http://www.chscottenterprises.com/home/about-us');_self">Sacas</a></h3>
-                         <p>L'idea di navigare con la mente in mondi dimenticati o sconosciuti, ma a noi vicini, &egrave; il senso, il filo conduttore di quest'opera.<br>In questa raccolta musicale ogni brano segue una propria trama, ispirata dall'immaginazione.<br>Musicalmente un ritmo ben presente accompagna la melodia, e pi&ugrave; stili si fondono nella forma canzone.Un progetto maturato nel tempo,originale.
-                          <h4>DATI TECNICI</h4>
-                          <p>DMT 8 digital multitracker (Foxtex)<br>Mic. Shure  sm58 (voce)<br>Mic. Sony   ECM-T140 condenser microphone (guitarra y cajon)<br>Strumenti: guitarra Jos&eacute; L. Postigo.Caon La Per&ugrave;.   Campane tibetane, altro..<br>keyboard  WK 2 GEM - pianof. - violini - basso - altro..<br><br>Esecuzione:  Croci Fanfulla Giorgio<br><br>Grafica: Marco Pandolfi<br>Fotografia: "Sindone di roverella" © Croci Fanfulla Giorgio.</p>
+      <a title="A proposito di Sacas" href="javascript:window.open('http://www.chscottenterprises.com/home/about-us');_self">
+        <img alt="About Us Image" src="https://lh5.googleusercontent.com/-dRebc1ephf8/T9ICY9uXpcI/AAAAAAAAB68/TpbeoDLNcTQ/s144/About_Us_Image.png">
+      </a>
+      <h3>
+        <a href="javascript:window.open('http://www.chscottenterprises.com/home/about-us');_self">
+          Sacas
+        </a>
+      </h3>
+      <p>L'idea di navigare con la mente in mondi dimenticati o sconosciuti, ma a noi vicini, &egrave; il senso, il filo conduttore di quest'opera.<br>In questa raccolta musicale ogni brano segue una propria trama, ispirata dall'immaginazione.<br>Musicalmente un ritmo ben presente accompagna la melodia, e pi&ugrave; stili si fondono nella forma canzone.Un progetto maturato nel tempo,originale.
+      </p>
+      <h4>
+        DATI TECNICI
+      </h4>
+      <p>
+        DMT 8 digital multitracker (Foxtex)<br>Mic. Shure  sm58 (voce)<br>Mic. Sony   ECM-T140 condenser microphone (guitarra y cajon)<br>Strumenti: guitarra Jos&eacute; L. Postigo.Caon La Per&ugrave;. Campane tibetane, altro..<br>keyboard  WK 2 GEM - pianof. - violini - basso - altro...<br><br>Esecuzione: Croci Fanfulla Giorgio<br><br>Grafica: Marco Pandolfi<br>Fotografia: "Sindone di roverella" &copy; Croci Fanfulla Giorgio.
+      </p>
           </div>
   </div>
     <div class="sliderkit-panel">
-    <div class="sliderkit-news">
-                         <a title="Business Strategy" href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self"><img alt="Business Strategy Image" src="https://lh4.googleusercontent.com/-YsxCOcEGpwM/T9ICWQrMA6I/AAAAAAAAB60/3XCg7Kj7TzM/s144/Business_Strategy_Image.png"></a>
-                         <h3><a href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self">Business Strategy</a></h3>
-                         <p><b>CHS<font size="1">COTT</font>E<font size="1">NTERPRISES</font></b> provides a wide range of services aimed at elevating and supporting our client's business strategy and growth. We provides experts in the areas of business intelligence, profitability analysis, process automation, performance management and business...<a href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self" class="sliderkit-news-readmore">Read more</a></p>
-           </div>
-  </div>
+      <div class="sliderkit-news">
+        <a title="Business Strategy" href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self">
+          <img alt="Business Strategy Image" src="https://lh4.googleusercontent.com/-YsxCOcEGpwM/T9ICWQrMA6I/AAAAAAAAB60/3XCg7Kj7TzM/s144/Business_Strategy_Image.png">
+        </a>
+        <h3>
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self">
+            Business Strategy
+          </a>
+        </h3>
+        <p><b>CHS<font size="1">COTT</font>E<font size="1">NTERPRISES</font></b> provides a wide range of services aimed at elevating and supporting our client's business strategy and growth. We provides experts in the areas of business intelligence, profitability analysis, process automation, performance management and business...
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self" class="sliderkit-news-readmore">
+            Read more
+          </a>
+        </p>
+        </div>
+      </div>
+
   <div class="sliderkit-panel">
     <div class="sliderkit-news">
                    <a title="Management Advisory" href="javascript:window.open('http://www.chscottenterprises.com/services/management-advisory-services');_self"><img alt="Management Advisory Image" src="https://lh6.googleusercontent.com/-NkVMWuZKizA/T9ICZ2sUn7I/AAAAAAAAB7E/vo7qF-Z1pJM/s144/Management_Advisory_Image.png"></a>

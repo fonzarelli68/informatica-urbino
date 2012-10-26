@@ -33,8 +33,10 @@ document.getElementById("showCD").innerHTML=txt;
 }
 </script>
 <style>
+  body {
   background-color: transparent;
   color: green;
+  }
 </style>
 </head>
 

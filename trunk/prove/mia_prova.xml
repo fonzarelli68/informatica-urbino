@@ -248,10 +248,10 @@ Here is a compact version :
 /*---------------------------------
  *  Tabs > Standard
  *---------------------------------*/  
-.tabs-standard{width:550px;height:185px;}
+.tabs-standard{width:100%px;height:550px;}
 
 /* Nav */
-.tabs-standard .sliderkit-nav{position:relative;width:550px;height:22px;text-align:left;}
+.tabs-standard .sliderkit-nav{position:relative;width:100%;height:22px;text-align:left;}
 .tabs-standard .sliderkit-nav-clip{margin:0;}
 .tabs-standard .sliderkit-nav-clip li{height:22px;padding:0 0 0 5px;margin:0 2px 0 0;}
 .tabs-standard .sliderkit-nav-clip li,
@@ -277,17 +277,23 @@ Here is a compact version :
   <div class="sliderkit-nav">
     <div class="sliderkit-nav-clip">
       <ul>
-        <li class="sliderkit-selected"><a title="About Us" href="#">About Us</a></li>
-        <li><a title="Strategy" href="#">Strategy</a></li>
-        <li><a title="Advisory" href="#">Advisory</a></li>
-        <li><a title="Technology" href="#">Technology</a></li>
+        <li class="sliderkit-selected"><a title="A proposito di Sacas" href="#">Sacas</a></li>
+        <li><a title="" href="#">una notina</a></li>
+        <li><a title="" href="#">bambole</a></li>
+        <li><a title="" href="#">sacas</a></li>
+        <li><a title="" href="#">buchico</a></li>
+        <li><a title="" href="#">nel mondo fuori</a></li>
+        <li><a title="" href="#">animodomina</a></li>
+        <li><a title="" href="#">aprite al forno!</a></li>
+        <li><a title="" href="#">libera</a></li>
+        <li><a title="" href="#">gocciad'ardento</a></li>
       </ul>
     </div>
   </div>
 <div class="sliderkit-panels">
   <div class="sliderkit-panel sliderkit-active">
     <div class="sliderkit-news">
-                         <a title="About Us" href="javascript:window.open('http://www.chscottenterprises.com/home/about-us');_self"><img alt="About Us Image" src="https://lh5.googleusercontent.com/-dRebc1ephf8/T9ICY9uXpcI/AAAAAAAAB68/TpbeoDLNcTQ/s144/About_Us_Image.png"></a>
+                         <a title="A proposito di Sacas" href="javascript:window.open('http://www.chscottenterprises.com/home/about-us');_self"><img alt="About Us Image" src="https://lh5.googleusercontent.com/-dRebc1ephf8/T9ICY9uXpcI/AAAAAAAAB68/TpbeoDLNcTQ/s144/About_Us_Image.png"></a>
                          <h3><a href="javascript:window.open('http://www.chscottenterprises.com/home/about-us');_self">About Us</a></h3>
                          <p><b>CHS<font size="1">COTT</font>E<font size="1">NTERPRISES</font></b> produces solutions that help our customers achieve the things they seek - <i>Results, Success and Profitability</i>. <b>CHS<font size="1">COTT</font>E<font size="1">NTERPRISES</font></b> is a business strategy, management advisory and technology consulting company that provides high-quality services to...<a href="javascript:window.open('http://www.chscottenterprises.com/home/about-us');_self" class="sliderkit-news-readmore">Read more</a></p>
           </div>

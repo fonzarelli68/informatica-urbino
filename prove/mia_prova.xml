@@ -80,8 +80,8 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
         $(".tabs-standard").sliderkit({
           auto:false,
           tabs:true,
-          mousewheel:true,
-          circular:true,
+          mousewheel:false,
+          circular:false,
           panelfx:"none"
         });
         
@@ -321,14 +321,14 @@ Here is a compact version :
  *---------------------------------*/  
 .tabs-standard {
   width:100%px;
-  height:550px;
+  height:600px;
 }
 
 /* Nav */
 .tabs-standard .sliderkit-nav {
   position:relative;
   width:100%;
-  height:50px;
+  height:auto;
   text-align:left;
 }
 .tabs-standard .sliderkit-nav-clip {
@@ -466,6 +466,112 @@ Here is a compact version :
         </h4>
         <p>
           DMT 8 digital multitracker (Foxtex)<br>Mic. Shure  sm58 (voce)<br>Mic. Sony   ECM-T140 condenser microphone (guitarra y cajon)<br>Strumenti: guitarra Jos&eacute; L. Postigo.Caon La Per&ugrave;. Campane tibetane, altro..<br>keyboard  WK 2 GEM - pianof. - violini - basso - altro...<br><br>Esecuzione: Croci Fanfulla Giorgio<br><br>Grafica: Marco Pandolfi<br>Fotografia: "Sindone di roverella" &copy; Croci Fanfulla Giorgio.
+        </p>
+      </div>
+    </div>
+    <div class="sliderkit-panel">
+      <div class="sliderkit-news">
+        <a title="Business Strategy" href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self">
+          <img alt="Business Strategy Image" src="https://lh4.googleusercontent.com/-YsxCOcEGpwM/T9ICWQrMA6I/AAAAAAAAB60/3XCg7Kj7TzM/s144/Business_Strategy_Image.png" />
+        </a>
+        <h3>
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self">
+            Business Strategy
+          </a>
+        </h3>
+        <p>
+          <b>CHS<font size="1">COTTENTERPRISES</font></b> provides a wide range of services aimed at elevating and supporting our client's business strategy and growth. We provides experts in the areas of business intelligence, profitability analysis, process automation, performance management and business...
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self" class="sliderkit-news-readmore">
+            Read more
+          </a>
+        </p>
+      </div>
+    </div>
+    <div class="sliderkit-panel">
+      <div class="sliderkit-news">
+        <a title="Management Advisory" href="javascript:window.open('http://www.chscottenterprises.com/services/management-advisory-services');_self">
+          <img alt="Management Advisory Image" src="https://lh6.googleusercontent.com/-NkVMWuZKizA/T9ICZ2sUn7I/AAAAAAAAB7E/vo7qF-Z1pJM/s144/Management_Advisory_Image.png" />
+        </a>
+        <h3>
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/management-advisory-services');_self">
+            Management Advisory
+          </a>
+        </h3>
+        <p>
+          <b>CHS<font size="1">COTT</font>E<font size="1">NTERPRISES</font></b> provides senior-level advisory services to companies seeking executive development, leadership development, organizational development and sustainability. Our senior-level advisory team members train organizations to achieve more and perform better...
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/management-advisory-services');_self" class="sliderkit-news-readmore">
+            Read more
+          </a>
+        </p>
+      </div>
+    </div>
+    <div class="sliderkit-panel">
+      <div class="sliderkit-news">
+        <a title="Technology Consulting" href="javascript:window.open('http://www.chscottenterprises.com/services/technology-consulting');_self">
+          <img alt="Technology Consulting Image" src="https://lh4.googleusercontent.com/-BrFiM1a71U0/T9ICaIvlRZI/AAAAAAAAB7M/FF8SDjcoB4I/s144/Technology_Consulting_Image.png" />
+        </a>
+        <h3>
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/technology-consulting');_self">
+            Technology Consulting
+          </a>
+        </h3>
+        <p>Our Technology Consulting teams provide a broad spectrum of valued solutions that help organizations define and achieve both their strategic and business technology objectives. <b>CHS<font size="1">COTT</font>E<font size="1">NTERPRISES</font></b> provides a full range of technology consulting services and solutions that...
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/technology-consulting');_self" class="sliderkit-news-readmore">
+            Read more
+          </a>
+        </p>
+      </div>
+    </div>
+    <div class="sliderkit-panel">
+      <div class="sliderkit-news">
+        <a title="Business Strategy" href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self">
+          <img alt="Business Strategy Image" src="https://lh4.googleusercontent.com/-YsxCOcEGpwM/T9ICWQrMA6I/AAAAAAAAB60/3XCg7Kj7TzM/s144/Business_Strategy_Image.png" />
+        </a>
+        <h3>
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self">
+            Business Strategy
+          </a>
+        </h3>
+        <p>
+          <b>CHS<font size="1">COTTENTERPRISES</font></b> provides a wide range of services aimed at elevating and supporting our client's business strategy and growth. We provides experts in the areas of business intelligence, profitability analysis, process automation, performance management and business...
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/business-strategy-services');_self" class="sliderkit-news-readmore">
+            Read more
+          </a>
+        </p>
+      </div>
+    </div>
+    <div class="sliderkit-panel">
+      <div class="sliderkit-news">
+        <a title="Management Advisory" href="javascript:window.open('http://www.chscottenterprises.com/services/management-advisory-services');_self">
+          <img alt="Management Advisory Image" src="https://lh6.googleusercontent.com/-NkVMWuZKizA/T9ICZ2sUn7I/AAAAAAAAB7E/vo7qF-Z1pJM/s144/Management_Advisory_Image.png" />
+        </a>
+        <h3>
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/management-advisory-services');_self">
+            Management Advisory
+          </a>
+        </h3>
+        <p>
+          <b>CHS<font size="1">COTT</font>E<font size="1">NTERPRISES</font></b> provides senior-level advisory services to companies seeking executive development, leadership development, organizational development and sustainability. Our senior-level advisory team members train organizations to achieve more and perform better...
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/management-advisory-services');_self" class="sliderkit-news-readmore">
+            Read more
+          </a>
+        </p>
+      </div>
+    </div>
+    <div class="sliderkit-panel">
+      <div class="sliderkit-news">
+        <a title="Technology Consulting" href="javascript:window.open('http://www.chscottenterprises.com/services/technology-consulting');_self">
+          <img alt="Technology Consulting Image" src="https://lh4.googleusercontent.com/-BrFiM1a71U0/T9ICaIvlRZI/AAAAAAAAB7M/FF8SDjcoB4I/s144/Technology_Consulting_Image.png" />
+        </a>
+        <h3>
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/technology-consulting');_self">
+            Technology Consulting
+          </a>
+        </h3>
+        <p>Our Technology Consulting teams provide a broad spectrum of valued solutions that help organizations define and achieve both their strategic and business technology objectives. <b>CHS<font size="1">COTT</font>E<font size="1">NTERPRISES</font></b> provides a full range of technology consulting services and solutions that...
+          <a href="javascript:window.open('http://www.chscottenterprises.com/services/technology-consulting');_self" class="sliderkit-news-readmore">
+            Read more
+          </a>
         </p>
       </div>
     </div>

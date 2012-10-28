@@ -373,8 +373,9 @@ Here is a compact version :
 /* Panel */
 .tabs-standard .sliderkit-panels {
   width:99%;
-  height:99%;  
+  height:540px;  
   padding:10px;
+  border:1px solid #336600;
   background:transparent;
 }
 .tabs-standard .sliderkit-panel {

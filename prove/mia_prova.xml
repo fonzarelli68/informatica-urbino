@@ -341,7 +341,7 @@ Here is a compact version :
 }
 .tabs-standard .sliderkit-nav-clip li, .tabs-standard .sliderkit-nav-clip li a {
   float:left;
-  background:none, repeat 0 0 #000;
+  background:none, repeat 0 0 #330000;
 } 
 /* 
 .tabs-standard .sliderkit-nav-clip li a {
@@ -359,14 +359,15 @@ Here is a compact version :
   font-weight:bold;
   color:#fff;
   text-decoration:none;
-  background-position:right -23px;
+  /* background-position:right -23px; */
 }
 .tabs-standard .sliderkit-nav-clip li.sliderkit-selected {
-  background-position:0 -44px;
+  /* background-position:0 -44px; */
+  /* background-color: #336600; */
 }
 .tabs-standard .sliderkit-nav-clip li.sliderkit-selected a {
-  color:#f00;
-  background-position:right -66px;
+  color:#336600;
+  /* background-position:right -66px; */
 }
 
 /* Panel */

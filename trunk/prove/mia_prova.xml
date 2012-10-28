@@ -372,16 +372,16 @@ Here is a compact version :
 
 /* Panel */
 .tabs-standard .sliderkit-panels {
-  width:100%;
-  height:540px;
-  overflow:hidden;
+  width:99%;
+  height:99%;  
   padding:10px;
-  border:1px solid #336600;
   background:transparent;
 }
 .tabs-standard .sliderkit-panel {
-  width:100%;
-  height:auto;
+  width:98%;
+  height:98%%;
+  overflow:auto;
+  border:1px solid #336600;
   background:transparent;
 }
 
@@ -465,6 +465,21 @@ Here is a compact version :
         <h4>
           DATI TECNICI
         </h4>
+        <p>
+          DMT 8 digital multitracker (Foxtex)<br>Mic. Shure  sm58 (voce)<br>Mic. Sony   ECM-T140 condenser microphone (guitarra y cajon)<br>Strumenti: guitarra Jos&eacute; L. Postigo.Caon La Per&ugrave;. Campane tibetane, altro..<br>keyboard  WK 2 GEM - pianof. - violini - basso - altro...<br><br>Esecuzione: Croci Fanfulla Giorgio<br><br>Grafica: Marco Pandolfi<br>Fotografia: "Sindone di roverella" &copy; Croci Fanfulla Giorgio.
+        </p>
+        <p>
+          DMT 8 digital multitracker (Foxtex)<br>Mic. Shure  sm58 (voce)<br>Mic. Sony   ECM-T140 condenser microphone (guitarra y cajon)<br>Strumenti: guitarra Jos&eacute; L. Postigo.Caon La Per&ugrave;. Campane tibetane, altro..<br>keyboard  WK 2 GEM - pianof. - violini - basso - altro...<br><br>Esecuzione: Croci Fanfulla Giorgio<br><br>Grafica: Marco Pandolfi<br>Fotografia: "Sindone di roverella" &copy; Croci Fanfulla Giorgio.
+        </p>
+        <p>
+          DMT 8 digital multitracker (Foxtex)<br>Mic. Shure  sm58 (voce)<br>Mic. Sony   ECM-T140 condenser microphone (guitarra y cajon)<br>Strumenti: guitarra Jos&eacute; L. Postigo.Caon La Per&ugrave;. Campane tibetane, altro..<br>keyboard  WK 2 GEM - pianof. - violini - basso - altro...<br><br>Esecuzione: Croci Fanfulla Giorgio<br><br>Grafica: Marco Pandolfi<br>Fotografia: "Sindone di roverella" &copy; Croci Fanfulla Giorgio.
+        </p>
+        <p>
+          DMT 8 digital multitracker (Foxtex)<br>Mic. Shure  sm58 (voce)<br>Mic. Sony   ECM-T140 condenser microphone (guitarra y cajon)<br>Strumenti: guitarra Jos&eacute; L. Postigo.Caon La Per&ugrave;. Campane tibetane, altro..<br>keyboard  WK 2 GEM - pianof. - violini - basso - altro...<br><br>Esecuzione: Croci Fanfulla Giorgio<br><br>Grafica: Marco Pandolfi<br>Fotografia: "Sindone di roverella" &copy; Croci Fanfulla Giorgio.
+        </p>
+        <p>
+          DMT 8 digital multitracker (Foxtex)<br>Mic. Shure  sm58 (voce)<br>Mic. Sony   ECM-T140 condenser microphone (guitarra y cajon)<br>Strumenti: guitarra Jos&eacute; L. Postigo.Caon La Per&ugrave;. Campane tibetane, altro..<br>keyboard  WK 2 GEM - pianof. - violini - basso - altro...<br><br>Esecuzione: Croci Fanfulla Giorgio<br><br>Grafica: Marco Pandolfi<br>Fotografia: "Sindone di roverella" &copy; Croci Fanfulla Giorgio.
+        </p>
         <p>
           DMT 8 digital multitracker (Foxtex)<br>Mic. Shure  sm58 (voce)<br>Mic. Sony   ECM-T140 condenser microphone (guitarra y cajon)<br>Strumenti: guitarra Jos&eacute; L. Postigo.Caon La Per&ugrave;. Campane tibetane, altro..<br>keyboard  WK 2 GEM - pianof. - violini - basso - altro...<br><br>Esecuzione: Croci Fanfulla Giorgio<br><br>Grafica: Marco Pandolfi<br>Fotografia: "Sindone di roverella" &copy; Croci Fanfulla Giorgio.
         </p>

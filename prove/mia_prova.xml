@@ -320,7 +320,7 @@ Here is a compact version :
  *  Tabs > Standard
  *---------------------------------*/  
 .tabs-standard {
-  width:100%px;
+  width:100%;
   height:600px;
 }
 
@@ -372,15 +372,15 @@ Here is a compact version :
 
 /* Panel */
 .tabs-standard .sliderkit-panels {
-  width:99%;
+  width:100%;
   height:540px;  
-  padding:10px;
-  border:1px solid #336600;
+  overflow: hidden;
+  padding:10px, 5px;
   background:transparent;
 }
 .tabs-standard .sliderkit-panel {
-  width:98%;
-  height:98%%;
+  width:99%;
+  height:530px;
   overflow:auto;
   border:1px solid #336600;
   background:transparent;

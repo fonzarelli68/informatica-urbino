@@ -419,7 +419,7 @@
     overflow:hidden;
   }
   .tabs-standard .sliderkit-news p {
-    color:#336600;
+    color:#006600;
     font-family:verdana,sans-serif;
     font-size:.8em;
     text-align: justify;

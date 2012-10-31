@@ -7,7 +7,7 @@
 <html>
 <head>
 </head>
-<body>
+<body onLoad="changeIt();" onClick="moveIt();">
 <span id="button1" style="position:relative;z-index:10"></span>
 
 <script>
@@ -18,7 +18,7 @@ Featured on JavaScript Kit (http://javascriptkit.com)
 For this and over 400+ free scripts, visit http://javascriptkit.com
 */
 
-var btnbgcol="lightred"
+var btnbgcol="lightgreen"
 var fntcol="black"
 var ok=(document.getElementById||document.all)?1:0
 if (ok)
@@ -62,7 +62,7 @@ function moveIt(){
 }
 </script>
 
-<body onLoad="changeIt();" onClick="moveIt();">
+
 
 	</body>
 

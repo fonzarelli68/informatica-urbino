@@ -382,7 +382,7 @@
     background-color: #000;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-image: url(https://sites.google.com/site/fanfullacroci/file-cabinet/sfondo_copertina.png);
+    background-image: url(https://94bd2281-a-62cb3a1a-s-sites.googlegroups.com/site/fanfullacroci/file-cabinet/sfondo_copertina.png);
     background-position: center center;
   }
   .tabs-standard .sliderkit-panel {

@@ -164,7 +164,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 }
 .sliderkit a:focus {
 outline:1px
-dotted #000;
+dotted #fff;
 /*optional*/
 }
 .sliderkit img {
@@ -373,19 +373,22 @@ Here is a compact version :
   height:540px;  
   overflow: auto;
   padding:10px, 5px;
-  /* Ora provo a mettere la copertina */
-  background-color: #000;
+  background-color: transparent;
+  /* Sfondi per v2  
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-image: url(https://94bd2281-a-62cb3a1a-s-sites.googlegroups.com/site/fanfullacroci/file-cabinet/sfondo_copertina.png);
-  background-position: center center;
+  background-position: center center; */
 }
 .tabs-standard .sliderkit-panel {
   width:99%;
   height:530px;
   overflow:auto;
-  border:1px solid #336600;
-  background-color:transparent; 
+  /* border:1px solid #336600; 
+  background-color:transparent; */
+  background: #1fc945;
+  background-image: url("https://informatica-urbino.googlecode.com/svn/trunk/sacas/bg-1.png"), url("https://informatica-urbino.googlecode.com/svn/trunk/sacas/bg-2.png");
+  background-repeat: repeat-x, repeat;
 }
 
 /* News block */

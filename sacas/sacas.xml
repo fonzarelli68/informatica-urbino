@@ -3,7 +3,7 @@
 <ModulePrefs title="Sacas: presentazione" />
 <Content type="html">
   <![CDATA[
-  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript">
 </script>
 <!-- <script src="../lib/js/external/_oldies/jquery-1.3.min.js" type="text/javascript"></script> -->
@@ -423,8 +423,8 @@ Here is a compact version :
   overflow:hidden;
 }
 .tabs-standard .sliderkit-news p {
-  color:#fff;
-  font-family:verdana,sans-serif;
+  color: #ffffff;
+  font-family: verdana,sans-serif;
   font-size:.8em;
   font-weight: bold;
   text-align: justify;

@@ -1,0 +1,5 @@
+body {
+background: #1fc945;
+background-image: url("bg-1.png"), url("bg-2.png");
+background-repeat: repeat-x, repeat;
+}

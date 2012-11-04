@@ -509,15 +509,18 @@ Here is a compact version :
          </a>
         </h3>
         <div class="lyrics">
-          <p>
-            L'idea di navigare con la mente in mondi dimenticati o sconosciuti, ma a noi vicini, &egrave; il senso, il filo conduttore di quest'opera.
-          </p>
-          <p>
-            In questa raccolta musicale ogni brano segue una propria trama, ispirata dall'immaginazione.
-          </p>
-          <p>
-            Musicalmente un ritmo ben presente accompagna la melodia, e pi&ugrave; stili si fondono nella forma canzone. Un progetto maturato nel tempo, originale.
-          </p>
+          <ol>
+          	<li>una notina</li>
+          	<li>bambole</li>
+          	<li>sacas</li>
+          	<li>buchico</li>
+          	<li>nel mondo fuori</li>
+          	<li>animodomina</li>
+          	<li>aprite al forno!</li>
+          	<li>libera</li>
+          	<li>goccia d'argento</li>
+          </ol>
+          
         </div>
         <div class="commentary">
           <h4>
@@ -525,6 +528,12 @@ Here is a compact version :
           </h4>
           <p>
             Qui va formattato il rebus con relative foto, ecc.
+          </p>
+          <p>
+            In questa raccolta musicale ogni brano segue una propria trama, ispirata dall'immaginazione.
+          </p>
+          <p>
+            Musicalmente un ritmo ben presente accompagna la melodia, e pi&ugrave; stili si fondono nella forma canzone. Un progetto maturato nel tempo, originale.
           </p>
         </div>
       </div>
@@ -581,22 +590,32 @@ Here is a compact version :
     <div class="sliderkit-panel">
       <div class="sliderkit-news">
         <h3>
-          Lorem ipsum dolor sit amet
+          bambole
         </h3>
         <div class="lyrics">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
-          </p>
-          <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
-          </p>
+        	<p>
+        		bambole<br>
+        		bambole belle<br>
+        		ditemi quale futuro<br>
+        		mi lega ancora alle stelle<br>
+        		ditemi questo
+        	</p>
+        	<p>
+        		piccola goccia d'argento<br>
+        		la luna lascia cadere<br>
+        		l'ultimo incontro, lo sento<br>
+        		pi&ugrave; non la vedo
+        	</p>
+        	<p>
+        		venite genti del mondo<br>
+        		vi accompagno lontano<br>
+        		in mezzo al cielo pi&ugrave; fondo<br>
+        		nel fondo cielo
+        	</p>
         </div>
         <div class="commentary">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
-          </p>
-          <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+          	Mia madre aveva tante bambole. Una la teneva sul letto, era vestita di tulle nero.
           </p>
         </div>
       </div>
@@ -604,23 +623,50 @@ Here is a compact version :
     <div class="sliderkit-panel">
       <div class="sliderkit-news">
         <h3>
-          Lorem ipsum dolor sit amet
+          sacas
         </h3>
         <div class="lyrics">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
+            nascere e vivere<br>
+            quel mondo che ci illumina<br>
+            madre mia ascoltami<br>
+            non lasciare che separino<br>
+            le tue mani dai miei battiti<br>
+            proteggi nel viaggio
+            la mia anima
           </p>
           <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+            no hay fuego si no sacas "el malo"
+          </p>
+          <p>
+          	parti che interpreti<br>
+          	vite sospese riaffiorano<br>
+          	occhi che ci guardano<br>
+          	rivivono eventi tragici<br>
+          	si sciolgono paure e tenebre<br>
+          	liberi, luce rivelano
+          </p>
+          <p>
+          	no hay fuego si no sacas "el malo"
+          </p>
+          <p>
+          	difficile comprendere<br>
+          	quel che &egrave; bene<br>
+          	e quel che &egrave; male<br>
+          	confondersi &egrave; possibile<br>
+          	la chiarezza &egrave; raggiungibile<br>
+          	quando il cuore si fa carico<br>
+          	di ansie acerbe<br>
+          	che svaniscono
+          </p>
+          <p>
+          	no hay fuego si no sacas "el malo"
           </p>
         </div>
 
         <div class="commentary">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
-          </p>
-          <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+            Non c'&egrave; "Fuego" il fuoco della vita, se non abreagisci (Sacas - tiri fuori) "El malo" le ferite che non ti vedi.
           </p>
         </div>
       </div>
@@ -628,23 +674,56 @@ Here is a compact version :
     <div class="sliderkit-panel">
       <div class="sliderkit-news">
         <h3>
-          Lorem ipsum dolor sit amet
+          buchico
         </h3>
         <div class="lyrics">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
+            calentar el aire en subida<br>
+            que yo respiro como si nada<br>
+            y como si nada<br>
+            yo vuelo encuentro la suerte<br>
+            en el cielo, y canto
           </p>
           <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+            vengo a ti amor brujo<br>
+            fuera de mi cuento los años<br>
+            me quedaré en este barrio<br>
+            viento frio de Madrid
+          </p>
+          <p>
+          	yo te digo mira el signo<br>
+          	que libre el alma<br>
+          	como por encanto<br>
+          	y como en sueño<br>
+          	yo echo así la cara máscara<br>
+          	de llanto al mundo
+          </p>
+          <p>
+          	vengo a ti amor brujo<br>
+          	fuera de mi pasan los años<br>
+          	me quedarè en este barrio<br>
+          	viento frio de Madrid
+          </p>
+          <p>
+          	tomar tomar<br>
+          	aqui salen bien las cuentas<br>
+          	cincuenta y cincuenta<br>
+          	cincuenta de rosa<br>
+          	cincuenta de azul<br>
+          	compremos compremos<br>
+          	con los oyos cerrados
+          </p>
+          <p>
+          	Buchico Buchico
           </p>
         </div>
 
         <div class="commentary">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
+            La Spagna vista dall'alto, in un mio volo immaginario.
           </p>
           <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+            Buchico è il nome che sento di dare a me stesso, quando da bambino vivevo nella città dei Gonzaga.
           </p>
         </div>
       </div>
@@ -652,23 +731,83 @@ Here is a compact version :
     <div class="sliderkit-panel">
       <div class="sliderkit-news">
         <h3>
-          Lorem ipsum dolor sit amet
+          nel mondo fuori
         </h3>
         <div class="lyrics">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
+            sale dentro me<br>
+            quel che sento,<br>
+            una nota del canto<br>
+            apre planando<br>
+            ai confini
           </p>
           <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+            danza,cinta ai fianchi<br>
+            con un velo<br>
+            lei si muove nell'ombra<br>
+            in una chiave,<br>
+            mi sorride<br>
+            e gemma sei<br>
+          </p>
+          <p>
+          	al centro al centro&nbsp;&nbsp;&nbsp;&nbsp;1° rit.<br>
+          	che c'è calore<br>
+          	al centro al centro<br>
+          	che sei protetto<br>
+          	al centro al centro<br>
+          	è stare insieme<br>
+          	al centro al centro<br>
+          	chi è stato al freddo
+          </p>
+          <p>
+          	sono liberi<br>
+          	da ogni sguardo<br>
+          	e sospesi al mio fianco<br>
+          	filano il tempo,<br>
+          	fino a quando...
+          </p>
+          <p>
+          	soli<br>
+          	nascono sulla terra,<br>
+          	mentre il suono s'infonde<br>
+          	al coro in temple,<br>
+          	la musica palpita
+          </p>
+          <p>
+          	fuori fuori&nbsp;&nbsp;&nbsp;&nbsp;2° rit.<br>
+          	che c'è da fare<br>
+          	fuori fuori<br>
+          	per non morire<br>
+          	fuori fuori<br>
+          	ad altre rive<br>
+          	fuori fuori<br>
+          	nel mondo fuori
+          </p>
+          <p>
+          	mani antiche<br>
+          	mani scure,<br>
+          	in un rapido gesto<br>
+          	battono il petto,<br>
+          	e il mio cuore<br>
+          	si anima
+          </p>
+          <p>
+          	al centro al centro...&nbsp;&nbsp;&nbsp;&nbsp;1° rit.
+          </p>
+          <p>
+          	fuori fuori...&nbsp;&nbsp;&nbsp;&nbsp;2° rit.
           </p>
         </div>
 
         <div class="commentary">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
+            Nei luoghi della terra più estremi  oppure insoliti, vivono esseri da noi conosciuti o immaginati.
           </p>
           <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+            Si può provare ammirazione per come vivono alcuni, oppure ricevere da altri l'energia pura dei loro gesti.
+          </p>
+          <p>
+          	Quelli immaginati sono invisibili, ma non sempre.
           </p>
         </div>
       </div>
@@ -676,23 +815,163 @@ Here is a compact version :
     <div class="sliderkit-panel">
       <div class="sliderkit-news">
         <h3>
-          Lorem ipsum dolor sit amet
+          animodomina
         </h3>
         <div class="lyrics">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
+            o copre per poco<br>
+            o c'è eco<br>
+            così diceva a frase<br>
+            andando avanti e indietro.
           </p>
           <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+            noi siamo immersi<br>
+            in una favola enigmatica<br>
+            vorremmo uscirne<br>
+            per vederla scorrere<br>
+            ma allontanarsene<br>
+            sarebbe in fondo perderla<br>
+            immaginata<br>
+            è un'iride fantasmagorica
+          </p>
+          <p>
+          	biliuon, biliuon
+          </p>
+          <p>
+          	i dinosauri<br>
+          	scomparvero dai secoli<br>
+          	la danza del pianeta al cielo<br>
+          	si fermò<br>
+          	inquiete forme<br>
+          	si posarono mutandosi<br>
+          	dove la luce non ha occhi<br>
+          	in luoghi fertili
+          </p>
+          <p>
+          	ai la trama vedrai<br>
+          	vai, nel vento vola e vai<br>
+          	come tu sei
+          </p>
+          <p>
+          	animodomina, animodomina
+          </p>
+          <p>
+          	biliuon, biliuon
+          </p>
+          <p>
+          	certi fenomeni<br>
+          	non sono da comprendere<br>
+          	la fretta chiede tempo<br>
+          	e tempo non ti dà<br>
+          	appesa a un filo<br>
+          	è la natura mia sonnambula<br>
+          	la specie critica ci osserva<br>
+          	latita
+          </p>
+          <p>
+          	biliuon, biliuon
+          </p>
+          <p>
+          	ho atteso giorni<br>
+          	e nove note in suoni limpidi<br>
+          	fronime a orecchio<br>
+          	do do mi re do si do re do<br>
+          	dicono morti, nell'antico<br>
+          	mito nordico<br>
+          	terrestri diventati<br>
+          	microscopici
+          </p>
+          <p>
+          	mai la trama vedrai<br>
+          	vai, nel vento vola e vai<br>
+          	come tu sei
+          </p>
+          <p>
+          	animodomina, animodomina
+          </p>
+          <p>
+          	biliuon, biliuon
           </p>
         </div>
 
         <div class="commentary">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
+            Salve! Indigena errante.
+          </p>
+      	</div>
+      </div>
+    </div>
+    <div class="sliderkit-panel">
+      <div class="sliderkit-news">
+        <h3>
+        	aprite al forno!
+        </h3>
+        <div class="lyrics">
+          <p>
+            dite, dite di me ci&ograve; che volete<br>
+            tutto quello che viaggia<br>
+            prima o poi ritorna<br>
+            questo ho imparato.<br>
+            non so perch&eacute;<br>
+            il diritto non c'&egrave;<br>
+            ogni cosa ruota<br>
+            e ruota ogni cosa,<br>
+            quando io per voi<br>
+            sono in alto pi&ugrave; in alto<br>
+            dite,dite di me ci&ograve; che volete<br>
+            al centro vivo eterno<br>
+            o per un po'<br>
+            fino a quando...<br> 
+            scoppia (fffs pam)<br>
+            la mia paziente forza<br>
+            andando incontro a quel destino<br>
+            che sar&agrave;<br>
+            andando, andando.<br>
+            nuvole, nuvole<br>
+            a volte passano le nuvole<br>
+            che velano, ricamano<br>
+            nuvole, nuvole<br>
+            a volte restano le nuvole<br>
+            che piangono, scompaiono.<br>
           </p>
           <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+            alta marea, cosa puoi dirmi?<br>
+            questa gondola che l'onda culla<br>
+            i tuoi consigli ascolter&agrave;.<br>
+            io so perch&eacute; quando salgono in te<br>
+            ridono, sognano, cantano le maschere.<br>
+            &egrave; sotto San Marco!<br>
+            Lacus Somniorum, Mare Serenitatis<br>
+            una ricetta antica<br>
+            e ritrovata a Lodi.<br>
+            il Cavaliere con scudo e corazza<br>
+            passa in Gaffurio ogni notte<br>
+            passa e ripeter&agrave;:<br>
+            "Aprite! al forno!"<br>
+            favole, favole<br>
+            al mondo narrano le favole<br>
+            che creano, inventano<br>
+            favole, favole<br>
+            a volte appaiono le favole<br>
+            che incantano, fanfullano<br>
+            nuvole, nuvole<br>
+            a volte restano le nuvole<br>
+            che piangono, scompaiono<br>
+            favole, favole<br>
+            a noi raccontano le favole<br>
+            che favole... raccontano
+          </p>
+        </div>
+
+        <div class="commentary">
+          <p>
+            Come nasce "Aprite al forno!"?
+          </p>
+          <p>
+            In un prato tra gli ulivi, un pò di giorno e un pò di notte. Ad ascoltarli mi hanno detto "cantaci".
+          </p>
+          <p>
+          	A Lodi, io ci sono passato, ma Bartolomeo il Fanfulla lo trovi solo in una pasticceria, incartato come biscotto, i "Fanfullini" appunto. Il Condottiero,ben più famoso e amato a Barletta,si è alzato sulle staffe nella vecchia via Gaffurio e ha tuonato: "Aprite! al forno!".
           </p>
         </div>
       </div>
@@ -700,23 +979,49 @@ Here is a compact version :
     <div class="sliderkit-panel">
       <div class="sliderkit-news">
         <h3>
-          Lorem ipsum dolor sit amet
+          libera
         </h3>
         <div class="lyrics">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
+            e guardo più in là<br>
+            vedo le tue mani<br>
+            che chiedono aiuto<br>
+            e mi preghi<br>
+            aprile al cielo<br>
+            sorridimi<br>
+            io te le leggo toccandole<br>
+            ad occhi chiusi
           </p>
           <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+            e fuggono via<br>
+            nascoste in fondo al cuore<br>
+            in velocit&agrave;<br>
+            così come i pensieri<br>
+            quelle tristezze dell'anima
           </p>
-        </div>
+          <p>
+            libera<br>
+            libera e splendente<br>
+            tornerai libera
+          </p>
+          <p>
+           e guardo più in là<br>
+           in spazi luminosi<br>
+           scherzando di me<br>
+           geloso come vedi<br>
+           quanti gli errori a ripetersi<br>
+           a nuocere la pace<br>
+           dei tuoi sentimenti<br>
+           che curano
+          </p>
+          <p>
+            libera...
+          </p>
+      	</div>
 
         <div class="commentary">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
-          </p>
-          <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+            Un canto di rinascita.
           </p>
         </div>
       </div>
@@ -724,58 +1029,25 @@ Here is a compact version :
     <div class="sliderkit-panel">
       <div class="sliderkit-news">
         <h3>
-          Lorem ipsum dolor sit amet
+          goccia d'argento
         </h3>
         <div class="lyrics">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
-          </p>
-          <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
-          </p>
-          <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
-          </p><p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
-          </p>
-          <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+           (solo per pianoforte)
           </p>
         </div>
 
         <div class="commentary">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
+            (Senza Testo) "Goccia d'argento" è la versione musicale per solo pianoforte della canzone "Bambole".
           </p>
           <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="sliderkit-panel">
-      <div class="sliderkit-news">
-        <h3>
-          Lorem ipsum dolor sit amet
-        </h3>
-        <div class="lyrics">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
+            Versione con video:
           </p>
           <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
-          </p>
-        </div>
-
-        <div class="commentary">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt mattis facilisis. Nunc rhoncus adipiscing ultrices. Duis at elit tellus, et lobortis lacus. Etiam ornare nisl adipiscing tellus molestie dapibus. Curabitur odio nisi, ultrices et interdum vel, luctus ut quam. Nullam condimentum auctor ipsum, nec auctor arcu viverra sed. Nulla massa augue, egestas suscipit dictum et, rutrum a risus. Cras libero risus, molestie vel ornare sed, egestas eu dui.
-          </p>
-          <p>
-            Maecenas interdum, ante ultricies pharetra vulputate, libero lacus placerat sapien, vel vestibulum ligula libero eget nunc. Nunc ut diam sed orci venenatis pretium. Cras gravida eros ac arcu lobortis quis cursus quam fringilla. Donec eleifend venenatis nunc, in accumsan orci ornare tempus. Morbi vel tempor odio. Mauris id diam sapien. Mauris mollis viverra ligula, ut auctor felis placerat eget. Vivamus orci ipsum, tincidunt quis scelerisque nec, sagittis sit amet elit. Vivamus placerat elementum lorem vehicula euismod. Cras auctor mi in nulla suscipit tincidunt. In rutrum diam eu sem sollicitudin ac eleifend lorem laoreet.
+          	Da quando vivo in campagna, durante le passeggiate mattutine, mi sono accorto della "presenza" di figure sulla corteccia degli alberi. Ho iniziato a fotografare queste immagini che armonizzano la fantasia.<br>
+          	Così è nato il video "Alberi" (visioni fantasmagoriche)<br>
+          	Goccia d'argento è il brano musicale che fa da colonna sonora al video.
           </p>
         </div>
       </div>

@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="LMC CAPA SLIDER" />
+<Content type="html"><![CDATA[
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript">
+  </script>
+
+  <style type="text/css" rel="stylesheet" href="capa.css">
+  /*************BBP CAPA Stylesheet ***/
+  body {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding-top:0px;
+    margin-top:-26px;
+    margin-left:0px;
+    font-size: 1em;
+    line-height: 1.55em;
+    color:#C90;
+    background-image: none;
+    background-repeat: repeat;
+  }
+  p {
+    FONT-SIZE: 90%;
+  }
+  td {
+    font-size: 90%;
+  }
+  th {
+    font-size: 90%;
+  }
+  /*********HEADING PROPERTIES */
+  h1 {
+    font-size: 175%;
+    color: #F90;
+    line-height: normal;
+  }
+  h2 {
+    font-size: 130%;
+    color: #933;
+  }
+  h3 {
+    font-size: 150%;
+    color: #FFFFFF;
+    padding-left: 5px;
+  }
+  h4 {
+    font-size: 120%;
+    color: #FFFFFF;
+    background-color:#660000;
+    text-align: left;
+    padding-left: 5px;
+    font-weight: bold;
+  }
+  h5 {
+    font-size: 115%;
+    color: #993300;
+    font-weight: bold;
+  }
+  h6 {
+    font-size: 175%;
+    color: #999933;
+  }
+  /*************Navigation elements ***************/
+  #utility {
+    padding-bottom: 10px;
+    float: right;
+    height: auto;
+    width: auto;
+    margin-top: 25px;
+    margin-right: 15px;
+  }
+  #utility a {
+  }
+  #utility a:hover{
+  }
+  /*********Link Properties*********/
+  a:link {
+    text-decoration : none;
+    background: inherit;
+    color: #930;
+  }
+  a:visited {
+    text-decoration : none;
+    background: inherit;
+    color: #600;
+  }
+  a:hover {
+    text-decoration : none;
+    background: inherit;
+    color: #30C;
+  }
+  a:active {
+    text-decoration : none;
+    background : inherit;
+    color: #6699CC;
+  }
+  /***********Main Divs********/
+  #container{
+    width:901px;
+    background-color:#FFF;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  div#header {
+    width:892px;
+    height: 160px;
+  }
+  div#navigation {
+    border-top-width: medium;
+    border-right-width: medium;
+    border-bottom-width: medium;
+    border-left-width: medium;
+    border-top-style: solid;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-top-color: #C90;
+    border-right-color: #C90;
+    border-bottom-color: #C90;
+    border-left-color: #C90;
+    margin: 0px;
+    padding: 0px;
+  }
+  div#banner {
+    height: 200px;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFCC00;
+  }
+  div#slideshow {
+    border-right-width: medium;
+    border-left-width: medium;
+    border-top-style: none;
+    border-right-style: solid;
+    border-bottom-style: none;
+    border-left-style: solid;
+    border-right-color: #C90;
+    border-left-color: #C90;
+    margin: 0px;
+    padding: 0px;
+    border-bottom-color: #C90;
+    border-top-color: #C90;
+  }
+  div#left {
+    float: left;
+    width: 180px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    background-color: #FC6;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  div#left h2 {
+    margin-top: 20px;
+  }
+  div#contenthome {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-top-style: none;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #FC6;
+    border-right-color: #FC6;
+    border-bottom-color: #FC6;
+    border-left-color: #FC6;
+  }
+  div#content {
+    margin-left: 235px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  div#contentinfo {
+    margin-left: 175px;
+    margin-right: 75px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 30px;
+  }
+  div#right {
+    float: right;
+    width: 240px;
+    height: auto;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    margin-top: 0;
+    margin-left: 0px;
+    margin-right: 8px;
+    margin-bottom: 0;
+    background-image:none;
+    color: #FFFFFF;
+  }
+  div#categories {
+    width:892px;
+    height:240px;
+  }
+  /*********** ARTICLES ****/
+  .intro {
+    float:left;
+    width: 25%;
+    margin: 3px 0 5px 0;
+    padding: 5px;
+    text-align:left;
+  }
+  .intro2 {
+    float: left;
+    width: 25%;
+    margin: 3px 0 5px 20px;
+    padding: 5px;
+  }
+  .intro3 {
+    float:right;
+    width: 33%;
+    margin: 3px 0 5px 0;
+    padding: 5px;
+  }
+  /*********Footer**********/
+  #footer {
+    clear: both;
+    height:50px;
+    color: #fff;
+    text-align: center;
+    border-top-width: medium;
+    border-top-style: none;
+    border-top-color: #FFCC66;
+    background-image: none;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border-right-width: thin;
+    border-left-width: thin;
+    border-right-style: none;
+    border-left-style: none;
+    border-right-color: #900;
+    border-left-color: #900;
+    border-bottom-style: none;
+  }
+  #footer a:link, #footer a:visited {
+    text-decoration: none;
+    background: inherit;
+    color : #FFCC33;
+    margin: 0px;
+  }
+  #footer a:hover {
+    text-decoration : none;
+    background: inherit;
+    color: #eee;
+  }
+  div#slideshow2 {
+    border-top-width: medium;
+    border-right-width: medium;
+    border-bottom-width: medium;
+    border-left-width: medium;
+    border-top-style: none;
+    border-right-style: solid;
+    border-bottom-style: none;
+    border-left-style: solid;
+    border-top-color: #900;
+    border-right-color: #900;
+    border-bottom-color: #900;
+    border-left-color: #900;
+    margin: 0px;
+    padding: 0px;
+  }
+  </style>
+  ‌
+  <style type="text/css" rel="stylesheet" href="pro_5.css">
+  /* CSS Document */
+  .prodrop5 {
+    margin:0;
+    list-style:none;
+    height:50px;
+    position:relative;
+    z-index:500;
+    background-color: #FEF5C5;
+    left: 0px;
+    padding-left: 40px;
+  }
+  .prodrop5 li.top {
+    display:block;
+    float:left;
+    margin-top: 0px;
+    margin-right: 15px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    padding-top: 0;
+    padding-right: 0px;
+    padding-bottom: 0;
+    padding-left: 0;
+  }
+  .prodrop5 li a.top_link {
+    display:block;
+    float:left;
+    height:50px;
+    line-height:27px;
+    color:#600;
+    text-decoration:none;
+    font-size:16px;
+    font-weight:bold;
+    cursor:pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    border-right-style: none;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  }
+  .prodrop5 li a.top_link span {
+    float:left;
+    display:block;
+    height:50px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+  }
+  .prodrop5 li a.top_link:hover {
+    line-height:25px;
+  }
+  .prodrop5 li a.top_link:hover span {
+  }
+  .prodrop5 li:hover > a.top_link {
+    line-height:25px;
+  }
+  .prodrop5 li:hover > a.top_link span {
+  }
+  .prodrop5 table {
+    border-collapse:collapse;
+    width:0;
+    height:0;
+    position:absolute;
+    top:0;
+    left:0;
+  }
+  /* Default link styling */
+  /* Style the list OR link hover. Depends on which browser is used */
+  .prodrop5 a:hover {
+    visibility:visible;
+    position:relative;
+    z-index:200;
+  }
+  .prodrop5 li:hover {
+    position:relative;
+    z-index:200;
+  }
+  /* keep the 'next' level invisible by placing it off screen. */
+  .prodrop5 ul {
+    position:absolute;
+    left:-9999px;
+    top:-9999px;
+    width:0;
+    height:0;
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-align: left;
+  }
+  .prodrop5 ul.sub1 {
+    width:175px;
+  }
+  .prodrop5 ul.sub2 {
+    width:130px;
+  }
+  .prodrop5 ul.sub3 {
+    width:90px;
+  }
+  .prodrop5 ul.sub4 {
+    width:112px;
+  }
+  .prodrop5 :hover ul {
+    left:0px;
+    top:53px;
+    padding:3px;
+    white-space:nowrap;
+    height:auto;
+    z-index:300;
+    background-color: #600;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    margin-left: 10px;
+  }
+  .prodrop5 :hover ul li {
+    display:block;
+    height:28px;
+    position:relative;
+    font-weight:normal;
+    width:auto;
+  }
+  .prodrop5 :hover ul li a {
+    display:block;
+    font-size:12px;
+    height:28px;
+    line-height:28px;
+    width:auto;
+    color: #FFF;
+    text-decoration:none;
+    padding-top: 0;
+    padding-right: 5px;
+    padding-bottom: 0;
+    padding-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .prodrop5 :hover ul li a:hover {
+    color: #C90;
+    text-decoration:underline;
+  }
+  </style>
+
+  <style type="text/css" href="mosaic.css" rel="stylesheet">
+  /*
+  Mosaic - Sliding Boxes and Captions jQuery Plugin
+  Version 1.0.1
+  www.buildinternet.com/project/mosaic
+  By Sam Dunn / One Mighty Roar (www.onemightyroar.com)
+  Released under MIT License / GPL License
+  */
+  {
+    margin:0;
+    padding:0;
+    border:none;
+    outline:none;
+  }
+  /*General Mosaic Styles*/
+  .mosaic-block {
+    float:left;
+    position:relative;
+    overflow:hidden;
+    width:178px;
+    height:400px;
+    -webkit-box-shadow:0 1px 3px rgba(0,0,0,0.5);
+    padding: 0px;
+    margin: 0px;
+    border-top-width: 2px;
+    border-right-width: 1px;
+    border-bottom-width: 2px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #C90;
+    border-right-color: #C90;
+    border-bottom-color: #C90;
+    border-left-color: #C90;
+  }
+  .mosaic-backdrop {
+    display:none;
+    position:absolute;
+    top:0;
+    height:100%;
+    width:100%;
+    background:#111;
+  }
+  .mosaic-overlay {
+    display:none;
+    z-index:5;
+    position:absolute;
+    width:100%;
+    height:100%;
+    background:#111;
+  }
+  .bar .mosaic-overlay {
+    bottom:-250px;
+    height:250px;
+    background:url(https://lh4.googleusercontent.com/-F5eXAZsmICQ/UA9DGRtjdDI/AAAAAAAACMc/A_Upt_pg90I/s900/bg-black.png);
+  }
+  /*** End Animation Styles ***/
+  .clearfix {
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+  .details{
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+  }
+  h4{
+    line-height:normal;
+    letter-spacing:0.15em;
+    color:#FC6;
+    text-shadow:1px 1px 0 rgb(0,0,0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+  }
+  p{
+    color:#FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+  }
+  a{
+    text-decoration:none;
+  }
+  </style>
+
+  <script src="mosaic.1.0.1.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+  /*
+  Mosaic - Sliding Boxes and Captions jQuery Plugin
+  Version 1.0.1
+  www.buildinternet.com/project/mosaic
+  By Sam Dunn / One Mighty Roar (www.onemightyroar.com)
+  Released under MIT License / GPL License
+  */
+  (function($){
+    if(!$.omr){
+      $.omr = new Object();
+    };
+    $.omr.mosaic = function(el, options){
+      var base = this;
+  // Access to jQuery and DOM versions of element
+  base.$el = $(el);
+  base.el = el;
+  // Add a reverse reference to the DOM object
+  base.$el.data("omr.mosaic", base);
+  base.init = function(){
+    base.options = $.extend({},$.omr.mosaic.defaultOptions, options);
+    base.load_box();
+  };
+  // Preload Images
+  base.load_box = function(){
+  // Hide until window loaded, then fade in
+  if (base.options.preload){
+    $(base.options.backdrop, base.el).hide();
+    $(base.options.overlay, base.el).hide();
+    $(window).load(function(){
+  // IE transparency fade fix
+  if(base.options.options.animation == 'fade' && $(base.options.overlay, base.el).css('opacity') == 0 ) $(base.options.overlay, base.el).css('filter', 'alpha(opacity=0)');
+  $(base.options.overlay, base.el).fadeIn(200, function(){
+    $(base.options.backdrop, base.el).fadeIn(200);
+  });
+  base.allow_hover();
+  });
+  }else{
+    $(base.options.backdrop, base.el).show();
+    $(base.options.overlay , base.el).show();
+    base.allow_hover();
+  }
+  };
+  // Initialize hover animations
+  base.allow_hover = function(){
+  // Select animation
+  switch(base.options.animation){
+  // Handle fade animations
+  case 'fade':
+  $(base.el).hover(function () {
+    $(base.options.overlay, base.el).stop().fadeTo(base.options.speed, base.options.opacity);
+  },function () {
+    $(base.options.overlay, base.el).stop().fadeTo(base.options.speed, 0);
+  });
+  break;
+  // Handle slide animations
+  case 'slide':
+  // Grab default overlay x,y position
+  startX = $(base.options.overlay, base.el).css(base.options.anchor_x) != 'auto' ? $(base.options.overlay, base.el).css(base.options.anchor_x) : '0px';
+  startY = $(base.options.overlay, base.el).css(base.options.anchor_y) != 'auto' ? $(base.options.overlay, base.el).css(base.options.anchor_y) : '0px';;
+  var hoverState = {};
+  hoverState[base.options.anchor_x] = base.options.hover_x;
+  hoverState[base.options.anchor_y] = base.options.hover_y;
+  var endState = {};
+  endState[base.options.anchor_x] = startX;
+  endState[base.options.anchor_y] = startY;
+  $(base.el).hover(function () {
+    $(base.options.overlay, base.el).stop().animate(hoverState, base.options.speed);
+  },function () {
+    $(base.options.overlay, base.el).stop().animate(endState, base.options.speed);
+  });
+  break;
+  };
+  };
+  // Make it go!
+  base.init();
+  };
+  $.omr.mosaic.defaultOptions = {
+    animation : 'fade',
+    speed : 150,
+    opacity : 1,
+    preload : 0,
+    anchor_x : 'left',
+    anchor_y : 'bottom',
+    hover_x : '0px',
+    hover_y : '0px',
+  overlay : '.mosaic-overlay', //Mosaic overlay
+  backdrop : '.mosaic-backdrop' //Mosaic backdrop
+  };
+  $.fn.mosaic = function(options){
+    return this.each(function(){
+      (new $.omr.mosaic(this, options));
+    });
+  };
+  })(jQuery);
+  </script>
+
+  <script src="jquery.hoverIntent.minified.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+  /**
+  * hoverIntent r6 // 2011.02.26 // jQuery 1.5.1+
+  * <http://cherne.net/brian/resources/jquery.hoverIntent.html>
+  *
+  * @param f onMouseOver function || An object with configuration options
+  * @param g onMouseOut function || Nothing (use configuration options object)
+  * @author Brian Cherne brian(at)cherne(dot)net
+  */
+  (function($){$.fn.hoverIntent=function(f,g){var cfg={sensitivity:7,interval:100,timeout:0};cfg=$.extend(cfg,g?{over:f,out:g}:f);var cX,cY,pX,pY;var track=function(ev){cX=ev.pageX;cY=ev.pageY};var compare=function(ev,ob){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t);if((Math.abs(pX-cX)+Math.abs(pY-cY))<cfg.sensitivity){$(ob).unbind("mousemove",track);ob.hoverIntent_s=1;return cfg.over.apply(ob,[ev])}else{pX=cX;pY=cY;ob.hoverIntent_t=setTimeout(function(){compare(ev,ob)},cfg.interval)}};var delay=function(ev,ob){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t);ob.hoverIntent_s=0;return cfg.out.apply(ob,[ev])};var handleHover=function(e){var ev=jQuery.extend({},e);var ob=this;if(ob.hoverIntent_t){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t)}if(e.type=="mouseenter"){pX=ev.pageX;pY=ev.pageY;$(ob).bind("mousemove",track);if(ob.hoverIntent_s!=1){ob.hoverIntent_t=setTimeout(function(){compare(ev,ob)},cfg.interval)}}else{$(ob).unbind("mousemove",track);if(ob.hoverIntent_s==1){ob.hoverIntent_t=setTimeout(function(){delay(ev,ob)},cfg.timeout)}}};return this.bind('mouseenter',handleHover).bind('mouseleave',handleHover)}})(jQuery);
+  </script>
+
+  <style type="text/css">
+  &lt;!--
+  .style4 {
+    color: #000000;
+    font-size: 12px;
+    font-family: "Trebuchet MS";
+  }
+  .style6 {font-family: "Trebuchet MS"}
+  --&gt;
+  </style>
+
+  <div id="container">
+  <div class="mosaic-block bar">
+  <a class="mosaic-overlay" target="_self" href="javascript:parent.location='http://www.bbhcapa.org/resources/parent.html';_self" style="display: inline; left: 0px; bottom: -250px;">
+  <div class="details">
+  <p style="margin-bottom: 0">Are you a parent looking for answers? We've got them...</p>
+  </div>
+  </a>
+  <div class="mosaic-backdrop" style="display: block;"><img src="https://lh6.googleusercontent.com/-9lLW0iCQuHI/UA895Y8dIaI/AAAAAAAACLo/MSEvRFO2ShI/s400/adults_178.jpg" width="178px" height="400px"></div>
+  </div>
+  <div class="mosaic-block bar">
+  <a class="mosaic-overlay" target="_self" href="javascript:parent.location='http://www.bbhcapa.org/resources/student.html';_self" style="display: inline; left: 0px; bottom: -250px;">
+  <div class="details">
+  <p style="margin-bottom: 0">Get connected to other students and read their stories....</p>
+  </div>
+  </a>
+  <div class="mosaic-backdrop" style="display: block;"><img src="https://lh3.googleusercontent.com/-Dj3q-4M30BU/UA895qdlyXI/AAAAAAAACL4/5YLEaOp0_Rs/s400/teens_178.jpg" width="178px" height="400px"></div>
+  </div>
+  <div class="mosaic-block bar">
+  <a class="mosaic-overlay" target="_self" href="javascript:parent.location='http://www.bbhcapa.org/resources/kids.html';_self" style="display: inline; left: 0px; bottom: -250px;">
+  <div class="details">
+  <p style="margin-bottom: 0">Online games for kids to play that teach good choices...</p>
+  </div>
+  </a>
+  <div class="mosaic-backdrop" style="display: block;"><img src="https://lh3.googleusercontent.com/-7Eyr4ehb95s/UA895huNC2I/AAAAAAAACLw/BoSak9rKoGw/s400/kids_178.jpg" width="178px" height="400px"></div>
+  </div>
+  <div class="mosaic-block bar">
+  <a class="mosaic-overlay" target="_self" href="javascript:parent.location='http://www.bbhcapa.org/mediagallery/media.html';_self" style="display: inline; left: 0px; bottom: -250px;">
+  <div class="details">
+  <p style="margin-bottom: 0">Watch our students' commercials that have appeared on local media...</p>
+  </div>
+  </a>
+  <div class="mosaic-backdrop" style="display: block;"><img src="https://lh3.googleusercontent.com/-mBZN8pqc9PI/UA895c82BFI/AAAAAAAACLk/L9RzPw7qNVo/s400/ads_178pg.jpg" width="178px" height="400px"></div>
+  </div>
+  <div class="mosaic-block bar">
+  <a class="mosaic-overlay" target="_self" href="javascript:parent.location='http://www.bbhcapa.org/about/join.html';_self" style="display: inline; left: 0px; bottom: -250px;">
+  <div class="details">
+  <p style="margin-bottom: 0">Sign up for our newsletter, volunteer, make a donation...</p>
+  </div>
+  </a>
+  <div class="mosaic-backdrop" style="display: block;"><img src="https://lh4.googleusercontent.com/-Oh3z8Stz-kg/UA895UTDUdI/AAAAAAAACLs/hOLWer65W28/s400/get_involved_180.jpg" width="178px" height="400px"></div>
+  </div>
+  </div>
+
+  <script type="text/javascript">
+
+  jQuery(function($){
+    $('.fade').mosaic();
+    $('.bar').mosaic({
+      animation:'slide'//fade or slide
+      });
+    $('.cover').mosaic({
+      animation:'slide',//fade or slide
+      hover_x:'180px'//Horizontal position on hover
+      });
+    });
+
+  </script>
+]]></Content>
+</Module>

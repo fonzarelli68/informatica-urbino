@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-<ModulePrefs title="LMC CAPA SLIDER" />
+<ModulePrefs title='Fanfulla Croci "Giorgio"' />
 <Content type="html"><![CDATA[
   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
   <script src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/bivio/jquery.min.js" type="text/javascript">
@@ -686,7 +686,7 @@
   <p style="margin-bottom: 0">Hai necessità di contattarmi? Qui troverai quel che ti serve...</p>
   </div>
   </a>
-  <div class="mosaic-backdrop" style="display: block;"><img src="https://lh4.googleusercontent.com/-Oh3z8Stz-kg/UA895UTDUdI/AAAAAAAACLs/hOLWer65W28/s400/get_involved_180.jpg" width="178px" height="400px"></div>
+  <div class="mosaic-backdrop" style="display: block;"><img src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/bivio/contatti.jpg" width="178px" height="400px"></div>
   </div>
   </div>
 

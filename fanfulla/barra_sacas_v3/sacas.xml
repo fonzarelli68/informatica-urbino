@@ -2,7 +2,8 @@
 <Module>
 <ModulePrefs title="Sacas: presentazione" />
 <Content type="html">
-	<![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+	<![CDATA[
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html>
 <head>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript">
@@ -409,9 +410,9 @@
 	}
 	.tabs-standard .sliderkit-news img {
 		/*float:right;*/
-		width:auto;
+		width:100%;
 		height:auto;
-		margin:0 0 5px 10px;
+		/*margin:0 0 5px 10px;*/
 		overflow:hidden;
 	}
 	.tabs-standard .sliderkit-news p, .tabs-standard .sliderkit-news li {

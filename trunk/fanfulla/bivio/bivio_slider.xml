@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-<ModulePrefs title='Fanfulla Croci "Giorgio"' />
+<ModulePrefs title="Le mie passioni" description='bivio per smistare il traffico nelle pagine del sito fanfulla-croci.it' author='Fanfulla Croci "Giorgio"' author_email='fanfulla.cg@gmail.com' author_location='Montefelcino (PU), Italy' author_link='https://plus.google.com/u/0/117766603574578509809/about' author_aboutme="Musicista e fotografo amatore, ma non solo..." author_quote='Sakan arbor' />
 <Content type="html"><![CDATA[
 	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 	<script src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/bivio/jquery.min.js" type="text/javascript">
@@ -651,10 +651,10 @@
 	<div class="mosaic-block bar">
 	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='https://sites.google.com/site/fanfullacroci/opere-musicali/album-sacas';_self" style="display: inline; left: 0px; bottom: -250px;">
 	<div class="details">
-	<p style="margin-bottom: 0">Sei interessato alla mia musica e vorresti saperne di pi&ugrave;...</p>
+	<p style="margin-bottom: 0">Sei interessato alla mio album e vorresti saperne di pi&ugrave;...</p>
 	</div>
 	</a>
-	<div class="mosaic-backdrop" style="display: block;"><img src="https://lh6.googleusercontent.com/-9lLW0iCQuHI/UA895Y8dIaI/AAAAAAAACLo/MSEvRFO2ShI/s400/adults_178.jpg" width="178px" height="400px"></div>
+	<div class="mosaic-backdrop" style="display: block;"><img src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/bivio/musica.jpg" width="178px" height="400px"></div>
 	</div>
 	<div class="mosaic-block bar">
 	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='https://sites.google.com/site/fanfullacroci/opere-fotografiche';_self" style="display: inline; left: 0px; bottom: -250px;">
@@ -704,5 +704,6 @@
 		});
 
 	</script>
-]]></Content>
+]]>
+</Content>
 </Module>

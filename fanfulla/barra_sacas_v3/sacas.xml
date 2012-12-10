@@ -430,6 +430,7 @@
 		}
 		.tabs-standard .sliderkit-news .commentary {
 			float: right;
+			margin-right: 5px;
 			width:49%;
 		}
 		</style>

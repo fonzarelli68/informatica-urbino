@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-<ModulePrefs title="Sacas: presentazione" />
+<ModulePrefs title="Sacas: presentazione" description='presentazione del mio album "Sacas"' author='Fanfulla Croci "Giorgio"' author_email='fanfulla.cg@gmail.com' author_location='Montefelcino (PU), Italy' author_link='https://plus.google.com/u/0/117766603574578509809/about' author_aboutme="Musicista e fotografo amatore, ma non solo..." author_quote='Sakan arbor' />
 <Content type="html">
 	<![CDATA[
 	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">

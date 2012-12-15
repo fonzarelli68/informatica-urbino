@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-<ModulePrefs title="Modified slideshow from Picasa Media RSS Feed"
-title_url="http://www.fanfullacroci.it/"
+<ModulePrefs title="Slideshow from Picasa Media RSS Feed"
+title_url="http://sites.google.com/site/annuairevin/"
 height="300"
 width="220"
 scrolling="false"
 directory_title="Media RSS Feed Slideshow. Slideshow from Picasa."
-description="Media RSS Feed Slideshow. Slideshow with title of Feed and title of pictures and added settings for description's color. Can display the original picture. Can define display and transition time. Display jpg, gif and png pictures. Random order available."
-author="Fanfulla Croci"
-author_location="Montefelcino (PU)"
+description="Media RSS Feed Slideshow. Slideshow with title of Feed and title of pictures. Can display the original picture. Can define display and transition time. Display jpg, gif and png pictures. Random order available."
+screenshot="http://www.liens-du-vin.ch/_pic062/picasa-slideshow-screen.png"
+thumbnail="http://www.liens-du-vin.ch/_pic062/picasa-slideshow-thumb.png"
+author="Philippe Chappuis"
+author_email="info+gadgetCSE@liens-du-vin.ch"
+author_affiliation="Google"
+author_location="Rolle Switzerland"
+author_link="http://www.liens-du-vin.ch"
+author_photo="http://www.liens-du-vin.ch/_pic02/gadget-author-photo.png"
+author_aboutme="An Engineer who likes to develop for the Net and tastes wines"
+author_quote="A chief is a man who assumes responsibility. He says &quot;I was beaten&quot; he does not say &quot;My men were beaten&quot; - Antoine de Saint-Exupery">
 
 <Require feature="analytics" />
 
@@ -275,7 +283,7 @@ return(thumb);
   
 google.load("feeds", "1");
 google.setOnLoadCallback(load_feed);
-_IG_Analytics("UA-37078308-1", "/gg_slide");  
+_IG_Analytics("UA-442758-35", "/gg_slide");  
 
 </script>
 

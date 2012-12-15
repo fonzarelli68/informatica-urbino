@@ -7,7 +7,7 @@
 	</script>
 
 	<style type="text/css" rel="stylesheet" href="capa.css">
-	/*************BBP CAPA Stylesheet ***/
+	/************* Stylesheet ***/
 	body {
 		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 		padding-top:0px;
@@ -649,44 +649,44 @@
 
 	<div id="container">
 	<div class="mosaic-block bar">
-	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='https://sites.google.com/site/fanfullacroci/opere-musicali/album-sacas';_self" style="display: inline; left: 0px; bottom: -250px;">
+	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='http://www.fanfullacroci.it/opere-musicali/album-sacas';_self" style="display: inline; left: 0px; bottom: -250px;">
 	<div class="details">
 	<p style="margin-bottom: 0">Sei interessato alla mio album e vorresti saperne di pi&ugrave;...</p>
 	</div>
 	</a>
-	<div class="mosaic-backdrop" style="display: block;"><img src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/bivio/musica.jpg" width="178px" height="400px"></div>
+	<div class="mosaic-backdrop" style="display: block;"><img src="http://www.fanfullacroci.it/file-cabinet/musica.jpg" width="178px" height="400px"></div>
 	</div>
 	<div class="mosaic-block bar">
-	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='https://sites.google.com/site/fanfullacroci/opere-fotografiche';_self" style="display: inline; left: 0px; bottom: -250px;">
+	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='http://www.fanfullacroci.it/opere-fotografiche';_self" style="display: inline; left: 0px; bottom: -250px;">
 	<div class="details">
 	<p style="margin-bottom: 0">Ti piace la fotografia e vuoi vedere le mie fantasmagorie....</p>
 	</div>
 	</a>
-	<div class="mosaic-backdrop" style="display: block;"><img src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/bivio/fotografie.jpg" width="178px" height="400px"></div>
+	<div class="mosaic-backdrop" style="display: block;"><img src="http://www.fanfullacroci.it/file-cabinet/fotografie.jpg" width="178px" height="400px"></div>
 	</div>
 	<div class="mosaic-block bar">
-	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='https://sites.google.com/site/fanfullacroci/cintarra';_self" style="display: inline; left: 0px; bottom: -250px;">
+	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='http://www.fanfullacroci.it/cintarra';_self" style="display: inline; left: 0px; bottom: -250px;">
 	<div class="details">
 	<p style="margin-bottom: 0">Sei chitarrista? Scopri la cintarra, lo strumento di mia invenzione...</p>
 	</div>
 	</a>
-	<div class="mosaic-backdrop" style="display: block;"><img src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/bivio/cintarra.jpg" width="178px" height="400px"></div>
+	<div class="mosaic-backdrop" style="display: block;"><img src="http://www.fanfullacroci.it/file-cabinet/cintarra.jpg" width="178px" height="400px"></div>
 	</div>
 	<div class="mosaic-block bar">
-	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='https://sites.google.com/site/fanfullacroci/biography/carta-d-identita';_self" style="display: inline; left: 0px; bottom: -250px;">
+	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='http://www.fanfullacroci.it/biography/carta-d-identita';_self" style="display: inline; left: 0px; bottom: -250px;">
 	<div class="details">
 	<p style="margin-bottom: 0">Vuoi conoscermi meglio, ecco qualcosa di pi&ugrave; su di me...</p>
 	</div>
 	</a>
-	<div class="mosaic-backdrop" style="display: block;"><img src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/bivio/about_me.jpg" width="178px" height="400px"></div>
+	<div class="mosaic-backdrop" style="display: block;"><img src="http://www.fanfullacroci.it/file-cabinet/about_me.jpg" width="178px" height="400px"></div>
 	</div>
 	<div class="mosaic-block bar">
-	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='https://sites.google.com/site/fanfullacroci/biography/contact';_self" style="display: inline; left: 0px; bottom: -250px;">
+	<a class="mosaic-overlay" target="_self" href="javascript:parent.location='http://www.fanfullacroci.it/biography/contact';_self" style="display: inline; left: 0px; bottom: -250px;">
 	<div class="details">
 	<p style="margin-bottom: 0">Hai necessità di contattarmi? Qui troverai quel che ti serve...</p>
 	</div>
 	</a>
-	<div class="mosaic-backdrop" style="display: block;"><img src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/bivio/contatti.jpg" width="178px" height="400px"></div>
+	<div class="mosaic-backdrop" style="display: block;"><img src="http://www.fanfullacroci.it/file-cabinet/contatti.jpg" width="178px" height="400px"></div>
 	</div>
 	</div>
 

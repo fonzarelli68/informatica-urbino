@@ -283,7 +283,7 @@ return(thumb);
   
 google.load("feeds", "1");
 google.setOnLoadCallback(load_feed);
-_IG_Analytics("UA-442758-35", "/gg_slide");  
+_IG_Analytics("UA-37078308-1", "/gg_slide");  
 
 </script>
 

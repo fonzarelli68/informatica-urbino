@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<Content type="html"><![CDATA[
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it">
+<head>
+<title>Opere fotografiche - Fantasmagorie</title>
+<meta content="Cloud Carousel. Le mie fantasmagorie naturali. Visioni fantasmagoriche di natura" name="description" >
+<meta content="fantasmagorie, alberi, visioni fantasmagoriche, immagini nelle forme naturali" name="keywords" >
+
+<!-- script -->
+<!-- jQuery version 1.4.2 -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<!-- cloud carousel -->
+<script type="text/JavaScript" src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/cloud-carousel-1-0-5-min.js"></script>
+<!-- add on mouse wheel -->
+<script type="text/JavaScript" src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/jquery-mouswheel.js"></script>
+
+<style>
+body { background-color: #d1dae3; }
+#carousel1 { margin: auto; }
+#carousel1 img { border: none; }
+#ctitle { color: white; text-align: center; font-family: Arial, sans-serif; }
+#ctitle a { color: yellow; border: none; text-decoration: none; }
+#ctitle a:hover { color: red; border: none; text-decoration: none; }
+.dir { width:30px; height:30px; background:url(https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/nivo-arrows.png) no-repeat; text-indent:-9999px; border:0; }
+#right-but { background-position:-30px 0; position absolue; top: 10px; right: 15px; display: inline;}
+#left-but { position absolue; top: 10px; left: 15px; display: inline;  }
+</style>
+</head>
+<body>
+
+<div id="carousel1" style="width: 1280px; height: 780px; background:#222222; overflow:scroll;">
+
+<p id="ctitle">Visioni Fantasmagoriche<a href="http://www.fanfullacroci.it/opere-fotografiche" target="_blank" title="Visioni Fantasmagoriche">Visioni Fantasmagoriche</a>
+<div id="left-but" class="dir">&nbsp;</div>
+<div id="right-but" class="dir">&nbsp;</div>
+</p>
+
+<!-- pictures to display -->
+
+<a href='https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg' target='_blank' title='Titolo1'><img class="cloudcarousel" src="https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg" alt="Testo_ALT1" title="Titolo2" /></a>
+
+<a href='https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg' target='_blank' title='Titolo3'><img class="cloudcarousel" src="https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg" alt="Testo_ALT2" title="Titolo4" /></a>
+
+<a href='https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg' target='_blank' title='Titolo5'><img class="cloudcarousel" src="https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg" alt="Testo_ALT3" title="Titolo6" /></a>
+
+<!---
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+<a href='URL_DEST' target='_blank' title='Titolo'><img class="cloudcarousel" src="URL_IMG" alt="Testo_ALT" title="Titolo" /></a>
+
+-->
+
+<!-- end carousel1 -->
+</div>
+
+<!-- script -->
+
+<script>
+
+$(document).ready(function(){      
+     $("#carousel1").CloudCarousel(	 {
+        xRadius:580, 
+        yRadius:160,	
+        xPos: 640, 
+        yPos: 150, 
+        reflHeight: 220, 
+        reflGap: 3, 
+        reflOpacity: 0.3, 
+        speed: 0.25, 
+        mouseWheel: true, 
+        buttonLeft: $("#left-but"), 
+        buttonRight: $("#right-but")
+ }
+ );
+ });
+</script>
+
+</body>
+</html>
+]]>
+</Content>
+</Module>

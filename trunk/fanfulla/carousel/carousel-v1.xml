@@ -20,7 +20,7 @@
 <style>
 body { background-color: #000000; }
 #carousel1 { margin: auto; }
-#carousel1 img { border: none;  max-height: 400px;}
+#carousel1 img { border: none;  max-height: 380px;}
 #ctitle { color: white; text-align: center; font-family: Arial, sans-serif; }
 #ctitle a { color: yellow; border: none; text-decoration: none; }
 #ctitle a:hover { color: red; border: none; text-decoration: none; }

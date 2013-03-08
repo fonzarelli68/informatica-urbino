@@ -20,7 +20,7 @@
 <style>
 body { background-color: #d1dae3; }
 #carousel1 { margin: auto; }
-#carousel1 img { border: none; }
+#carousel1 img { border: none;  max-width: 320px;}
 #ctitle { color: white; text-align: center; font-family: Arial, sans-serif; }
 #ctitle a { color: yellow; border: none; text-decoration: none; }
 #ctitle a:hover { color: red; border: none; text-decoration: none; }
@@ -31,7 +31,7 @@ body { background-color: #d1dae3; }
 </head>
 <body>
 
-<div id="carousel1" style="width: 1024px; height: 780px; background: transparent; overflow:scroll;">
+<div id="carousel1" style="width: 1280px; height: 780px; background:#000000; overflow:scroll;">
 
 
 <p id="ctitle">Visioni Fantasmagoriche<a href="http://www.fanfullacroci.it/opere-fotografiche" target="_blank" title="Visioni Fantasmagoriche">Visioni Fantasmagoriche</a>

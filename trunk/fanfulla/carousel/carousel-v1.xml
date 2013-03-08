@@ -18,7 +18,7 @@
 <script type="text/JavaScript" src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/jquery-mouswheel.js"></script>
 
 <style>
-body { background-color: #d1dae3; }
+body { background-color: #000000; }
 #carousel1 { margin: auto; }
 #carousel1 img { border: none;  max-width: 400px;}
 #ctitle { color: white; text-align: center; font-family: Arial, sans-serif; }

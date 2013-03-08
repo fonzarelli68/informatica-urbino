@@ -25,7 +25,7 @@ body { background-color: #000000; }
 #ctitle a { color: yellow; border: none; text-decoration: none; }
 #ctitle a:hover { color: red; border: none; text-decoration: none; }
 .dir { width:30px; height:30px; background:url(https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/nivo-arrows.png) no-repeat; text-indent:-9999px; border:0; }
-#right-but { background-position:-30px 0; position absolue; top: 10px; right: 15px; display: inline;}
+#right-but { background-position:-30px 0; position absolute; top: 10px; right: 15px; display: inline;}
 #left-but { position absolue; top: 10px; left: 15px; display: inline;  }
 </style>
 </head>

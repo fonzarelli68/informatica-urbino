@@ -41,19 +41,63 @@
     </script>
 
     <style>
-    body {background-color: #000000; }
-    #carousel1 { margin: auto; }
-    #carousel1 img { border: none;  max-height: 380px;}
-    #ctitle { color: white; text-align: center; font-family: Arial, sans-serif; }
-    #ctitle a { color: yellow; border: none; text-decoration: none; }
-    #ctitle a:hover { color: red; border: none; text-decoration: none; }
-    .dir { width:30px; height:30px; background:url(https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/nivo-arrows.png) no-repeat; text-indent:-9999px; border:0; }
-    #right-but { background-position:-30px 0; position absolute; top: 10px; right: 15px; display: inline;}
-    #left-but { position absolue; top: 10px; left: 15px; display: inline;  }
+    body {
+        background-color: #000000;
+    }
+    
+    #carousel1 {
+        margin: auto;
+    }
+    
+    #carousel1 img {
+        border: none;
+        max-height: 380px;
+    }
+    
+    #ctitle {
+        color: white;
+        text-align: center;
+        font-family: Arial, sans-serif;
+    }
+    
+    #ctitle a {
+        color: yellow;
+        border: none;
+        text-decoration: none;
+    }
+    
+    #ctitle a:hover {
+        color: red;
+        border: none;
+        text-decoration: none;
+    }
+    
+    .dir {
+        width:30px;
+        height:30px;
+        background:url(https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/nivo-arrows.png) no-repeat;
+        text-indent:-9999px;
+        border:0;
+    }
+
+    #right-but {
+        background-position: -30px 0;
+        position absolute;
+        top: 10px;
+        right: 15px;
+        display: inline;
+    }
+
+    #left-but {
+        position absolue;
+        top: 10px;
+        left: 15px;
+        display: inline;
+    }
+
     #alberi-title {
         display:none;   
         color:#f90;
-        font-family:Georgia, "Times New Roman", Times, serif;
         font-size:17px;
         font-weight:bold;
         margin:20px;
@@ -62,6 +106,7 @@
         margin-bottom:10px;
         width:80%;
     }
+
     #alberi-alt{
         display:none;   
         color:#ddd;
@@ -76,10 +121,10 @@
 <body>
     <div id="carousel1" style="width: 1280px; height: 780px; background:#000000; overflow:scroll;">
         <p id="ctitle">Visioni Fantasmagoriche<a href="http://www.fanfullacroci.it/opere-fotografiche" target="_blank" title="Visioni Fantasmagoriche">Visioni Fantasmagoriche</a>
-            <div id="left-but" class="dir">&nbsp;</div>
-            <div id="right-but" class="dir">&nbsp;</div>
-            <div id="alberi-title">&nbsp;</div>
-            <div id="alberi-alt">&nbsp;</div>
+            <div id="left-but" class="dir"></div>
+            <div id="right-but" class="dir"></div>
+            <div id="alberi-title"></div>
+            <div id="alberi-alt"></div>
         </p>
 
         <!-- pictures to display -->

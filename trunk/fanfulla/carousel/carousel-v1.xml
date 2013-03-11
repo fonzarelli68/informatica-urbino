@@ -22,12 +22,12 @@
 
 $(document).ready(function(){      
      $("#carousel1").CloudCarousel(  {
-        xRadius:580, 
-        yRadius:160,    
+        xRadius:556, 
+        yRadius:130,    
         xPos: 640, 
-        yPos: 150, 
-        titleBox: $('#carousel1-title'),
-        altBox: $('#carousel1-alt'),
+        yPos: 390, 
+        titleBox: $ ('#carousel1-title'),
+        altBox: $ ('#carousel1-alt'),
         reflHeight: 110, 
         reflGap: 3, 
         reflOpacity: 0.3, 

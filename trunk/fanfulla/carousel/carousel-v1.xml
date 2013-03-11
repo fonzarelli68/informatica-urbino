@@ -23,19 +23,19 @@
     <script type="text/JavaScript">
     $(document).ready(function(){
     $("#carousel1").CloudCarousel({
-        xRadius:556,
-        yRadius:130,
+        xRadius: 556,
+        yRadius: 130,
         xPos: 640,
         yPos: 390,
-        titleBox: $ ('#alberi-title'),
-        altBox: $ ('#alberi-alt'),
+        titleBox: $('#alberi-title'),
+        altBox: $('#alberi-alt'),
         reflHeight: 110,
         reflGap: 3,
         reflOpacity: 0.3,
         speed: 0.25,
         mouseWheel: true,
         buttonLeft: $("#left-but"),
-        buttonRight: $("#right-but"),
+        buttonRight: $("#right-but")
     });
 });
     </script>

@@ -17,6 +17,29 @@
 <!-- add on mouse wheel -->
 <script type="text/JavaScript" src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/jquery-mouswheel.js"></script>
 
+<!-- script -->
+<script>
+
+$(document).ready(function(){      
+     $("#carousel1").CloudCarousel(  {
+        xRadius:580, 
+        yRadius:160,    
+        xPos: 640, 
+        yPos: 150, 
+        titleBox: $('#carousel1-title'),
+        altBox: $('#carousel1-alt'),
+        reflHeight: 110, 
+        reflGap: 3, 
+        reflOpacity: 0.3, 
+        speed: 0.25, 
+        mouseWheel: true, 
+        buttonLeft: $("#left-but"), 
+        buttonRight: $("#right-but")
+ }
+ );
+ });
+</script>
+
 <style>
 body { background-color: #000000; }
 #carousel1 { margin: auto; }
@@ -83,30 +106,6 @@ body { background-color: #000000; }
 
 <!-- end carousel1 -->
 </div>
-
-<!-- script -->
-
-<script>
-
-$(document).ready(function(){      
-     $("#carousel1").CloudCarousel(  {
-        xRadius:580, 
-        yRadius:160,    
-        xPos: 640, 
-        yPos: 150, 
-        titleBox: $('#carousel1-title'),
-        altBox: $('#carousel1-alt'),
-        reflHeight: 110, 
-        reflGap: 3, 
-        reflOpacity: 0.3, 
-        speed: 0.25, 
-        mouseWheel: true, 
-        buttonLeft: $("#left-but"), 
-        buttonRight: $("#right-but")
- }
- );
- });
-</script>
 
 </body>
 </html>

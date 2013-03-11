@@ -94,7 +94,7 @@ $(document).ready(function(){
         yRadius:160,    
         xPos: 640, 
         yPos: 150, 
-        reflHeight: 220, 
+        reflHeight: 110, 
         reflGap: 3, 
         reflOpacity: 0.3, 
         speed: 0.25, 

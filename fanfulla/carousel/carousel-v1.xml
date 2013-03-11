@@ -50,6 +50,27 @@
     .dir { width:30px; height:30px; background:url(https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/nivo-arrows.png) no-repeat; text-indent:-9999px; border:0; }
     #right-but { background-position:-30px 0; position absolute; top: 10px; right: 15px; display: inline;}
     #left-but { position absolue; top: 10px; left: 15px; display: inline;  }
+    #alberi-title {
+        display:none;   
+        color:#f90;
+        font-family:Georgia, "Times New Roman", Times, serif;
+        font-size:17px;
+        font-weight:bold;
+        margin:20px;
+        text-transform:uppercase;
+        letter-spacing:1px;
+        margin-bottom:10px;
+        width:80%;
+    }
+    #alberi-alt{
+        display:none;   
+        color:#ddd;
+        margin:20px;
+        margin-top:0px;
+        font-size:14px;
+        font-weight:bold;
+        
+    }
     </style>
 </head>
 <body>

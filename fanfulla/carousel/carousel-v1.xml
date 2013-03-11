@@ -32,11 +32,11 @@ body { background-color: #000000; }
 <body>
 
 <div id="carousel1" style="width: 1280px; height: 780px; background:#000000; overflow:scroll;">
-
-
 <p id="ctitle">Visioni Fantasmagoriche<a href="http://www.fanfullacroci.it/opere-fotografiche" target="_blank" title="Visioni Fantasmagoriche">Visioni Fantasmagoriche</a>
 <div id="left-but" class="dir">&nbsp;</div>
 <div id="right-but" class="dir">&nbsp;</div>
+<div id="carousel1-title"></div>
+<div id="carousel1-alt"></div>
 </p>
 
 <!-- pictures to display -->
@@ -94,7 +94,9 @@ $(document).ready(function(){
         yRadius:160,    
         xPos: 640, 
         yPos: 150, 
-        reflHeight: 220, 
+        titleBox: $('#carousel1-title'),
+        altBox: $('#carousel1-alt'),
+        reflHeight: 110, 
         reflGap: 3, 
         reflOpacity: 0.3, 
         speed: 0.25, 

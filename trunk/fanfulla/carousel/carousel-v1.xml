@@ -57,8 +57,8 @@
         <p id="ctitle">Visioni Fantasmagoriche<a href="http://www.fanfullacroci.it/opere-fotografiche" target="_blank" title="Visioni Fantasmagoriche">Visioni Fantasmagoriche</a>
             <div id="left-but" class="dir">&nbsp;</div>
             <div id="right-but" class="dir">&nbsp;</div>
-            <div id="alberi-title"></div>
-            <div id="alberi-alt"></div>
+            <div id="alberi-title">&nbsp;</div>
+            <div id="alberi-alt">&nbsp;</div>
         </p>
 
         <!-- pictures to display -->

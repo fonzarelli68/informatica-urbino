@@ -19,7 +19,7 @@
 }
 
 .lbLoading {
-	background: #fff url(https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2.04/css/loading.gif) no-repeat center;
+	background: #fff url(https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/css/loading.gif) no-repeat center;
 }
 
 #lbImage {
@@ -43,7 +43,7 @@
 }
 
 #lbPrevLink:hover {
-	background: transparent url(https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2.04/css/prevlabel.gif) no-repeat 100% 15%;
+	background: transparent url(https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/css/prevlabel.gif) no-repeat 100% 15%;
 }
 
 #lbNextLink {
@@ -51,7 +51,7 @@
 }
 
 #lbNextLink:hover {
-	background: transparent url(https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2.04/css/nextlabel.gif) no-repeat 0 15%;
+	background: transparent url(https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/css/nextlabel.gif) no-repeat 0 15%;
 }
 
 #lbBottom {
@@ -70,7 +70,7 @@
 	float: left;
 	width: 66px;
 	height: 22px;
-	background: transparent url(https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2.04/css/closelabel.gif) no-repeat center;
+	background: transparent url(https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/css/closelabel.gif) no-repeat center;
 	margin: 5px 0;
 	outline: none;
 }

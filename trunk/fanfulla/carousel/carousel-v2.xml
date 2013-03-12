@@ -132,7 +132,7 @@
 			<div id="alberi-alt">&nbsp;</div>
 
 		<!-- pictures to display -->
-		<a href="javascript:parent.location='https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg;_self' rel='lightbox' title='Sindone di Roverella'>
+		<a href="javascript:parent.location='https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg';_self" rel='lightbox' title='Sindone di Roverella'>
 			<img class="cloudcarousel" src="https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg" alt="Testo_ALT1" title="Sindone di Roverella" />
 		</a>
 

@@ -27,10 +27,10 @@
 	<script type="text/JavaScript">
 	$(document).ready(function(){
 	$("#carousel1").CloudCarousel({
-		xRadius: 580,
+		xRadius: 570,
 		yRadius: 160,
 		xPos: 640,
-		yPos: 150,
+		yPos: 160,
 		titleBox: $('#alberi-title'),
 		altBox: $('#alberi-alt'),
 		reflHeight: 110,

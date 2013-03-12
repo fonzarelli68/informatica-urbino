@@ -132,9 +132,9 @@
 			<div id="alberi-alt">&nbsp;</div>
 
 		<!-- pictures to display -->
-		<a href="https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg" rel="lightbox" title="Sindone di Roverella">
-			<img class="cloudcarousel" src="https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg" alt="somiglianza: volto" title="Sindone di Roverella" />
-		</a>
+		<a href='https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg' rel='lightbox' title='Sindone di Roverella'>
+					<img class="cloudcarousel" src="https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg" alt="somiglianza: volto" title="Sindone di Roverella" />
+				</a>
 
 		<a href='https://lh3.googleusercontent.com/-Rmg5sB0qYG4/UTkJOH0a7PI/AAAAAAAAAsw/kEZvsYBMT1k/s555/001-civella.jpg' target='_blank' title='Civella'>
 					<img class="cloudcarousel" src="https://lh3.googleusercontent.com/-Rmg5sB0qYG4/UTkJOH0a7PI/AAAAAAAAAsw/kEZvsYBMT1k/s555/001-civella.jpg" alt="somiglianza: volatile notturno<br>albero: ipocastano" title="Civella" />

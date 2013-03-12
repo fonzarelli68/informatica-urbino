@@ -20,6 +20,10 @@
     <!-- add on mouse wheel -->
     <script type="text/JavaScript" src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/jquery-mouswheel.js">
     </script>
+    <!-- add on slimbox2 -->
+    <script type="text/javascript" src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/slimbox2.js">
+    </script>
+    <!-- carousel1 script & params -->
     <script type="text/JavaScript">
     $(document).ready(function(){
     $("#carousel1").CloudCarousel({

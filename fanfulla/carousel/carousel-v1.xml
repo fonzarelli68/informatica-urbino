@@ -23,10 +23,10 @@
     <script type="text/JavaScript">
     $(document).ready(function(){
     $("#carousel1").CloudCarousel({
-        xRadius: 556,
-        yRadius: 130,
+        xRadius: 580,
+        yRadius: 160,
         xPos: 640,
-        yPos: 390,
+        yPos: 150,
         titleBox: $('#alberi-title'),
         altBox: $('#alberi-alt'),
         reflHeight: 110,
@@ -82,33 +82,33 @@
 
     #right-but {
         background-position: -30px 0;
-        position absolute;
+        position: absolute;
         top: 10px;
         right: 15px;
         display: inline;
     }
 
     #left-but {
-        position absolue;
+        position: absolute;
         top: 10px;
         left: 15px;
         display: inline;
     }
 
     #alberi-title {
-        display:none;   
+        display:block;   
         color:#f90;
         font-size:17px;
         font-weight:bold;
         margin:20px;
-        text-transform:uppercase;
+        text-transform:capitalize;
         letter-spacing:1px;
         margin-bottom:10px;
         width:80%;
     }
 
     #alberi-alt{
-        display:none;   
+        display:block;   
         color:#ddd;
         margin:20px;
         margin-top:0px;
@@ -120,12 +120,12 @@
 </head>
 <body>
     <div id="carousel1" style="width: 1280px; height: 780px; background:#000000; overflow:scroll;">
-        <p id="ctitle">Visioni Fantasmagoriche<a href="http://www.fanfullacroci.it/opere-fotografiche" target="_blank" title="Visioni Fantasmagoriche">Visioni Fantasmagoriche</a>
-            <div id="left-but" class="dir"></div>
-            <div id="right-but" class="dir"></div>
-            <div id="alberi-title"></div>
-            <div id="alberi-alt"></div>
+        <p id="ctitle">Visioni Fantasmagoriche&nbsp;-&nbsp;<a href="http://www.fanfullacroci.it/opere-fotografiche" target="_blank" title="Visioni Fantasmagoriche">Opere Fotografiche</a>
         </p>
+            <div id="left-but" class="dir">&nbsp;</div>
+            <div id="right-but" class="dir">&nbsp;</div>
+            <div id="alberi-title">&nbsp;</div>
+            <div id="alberi-alt">&nbsp;</div>
 
         <!-- pictures to display -->
         <a href='https://lh3.googleusercontent.com/-_6Kbaz2kz5g/UTkJOHM3sVI/AAAAAAAAAs0/7V5IVELP2_8/s640/000-sind-rov.jpg' target='_blank' title='Titolo1'>

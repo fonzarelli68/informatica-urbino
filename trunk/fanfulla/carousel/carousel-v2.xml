@@ -9,7 +9,6 @@
 	</title>
 	<meta content="Cloud Carousel. Le mie fantasmagorie naturali. Visioni fantasmagoriche di natura" name="description" >
 	<meta content="fantasmagorie, alberi, visioni fantasmagoriche, immagini nelle forme naturali" name="keywords" >
-	<link rel="stylesheet" href="https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/css/slimbox2.css" type="text/css" media="screen" />
 	<!-- script -->
 	<!-- jQuery version 1.4.2 -->
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js">
@@ -21,8 +20,9 @@
 	<script type="text/JavaScript" src="https://informatica-urbino.googlecode.com/svn/trunk/fanfulla/carousel/jquery-mouswheel.js">
 	</script>
 	<!-- add on slimbox2 -->
-	<script type="text/javascript" src="https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/js/slimbox2.js">
-	</script>
+	<script type="text/javascript" src="https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/js/slimbox2.js"></script>
+	<link rel="stylesheet" href="https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/css/slimbox2.css" type="text/css" media="screen" />
+	
 	<!-- carousel1 script & params -->
 	<script type="text/JavaScript">
 	$(document).ready(function(){

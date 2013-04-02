@@ -24,10 +24,10 @@
 	<script type="text/JavaScript">
 	$(document).ready(function(){
 	$("#carousel1").CloudCarousel({
-		xRadius: 570,
-		yRadius: 160,
-		xPos: 640,
-		yPos: 160,
+		xRadius: 416,
+		yRadius: 100,
+		xPos: 480,
+		yPos: 300,
 		titleBox: $('#alberi-title'),
 		altBox: $('#alberi-alt'),
 		reflHeight: 110,
@@ -120,7 +120,7 @@
 	
 </head>
 <body>
-	<div id="carousel1" style="width: 1280px; height: 780px; background:#000000; overflow:scroll;">
+	<div id="carousel1" style="width: 960px; height: 600px; background:#000000; overflow:scroll;">
 		<p id="ctitle">Visioni Fantasmagoriche&nbsp;-&nbsp;<a href="http://www.fanfullacroci.it/opere-fotografiche" target="_blank" title="Visioni Fantasmagoriche">Opere Fotografiche</a>
 		</p>
 			<div id="left-but" class="dir">&nbsp;</div>

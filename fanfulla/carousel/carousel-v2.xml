@@ -21,7 +21,7 @@
 	</script>
 	<!-- add on slimbox2 -->
 	<script type="text/javascript" src="https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/js/slimbox2.js"></script>
-	<link rel="stylesheet" href="https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/css/slimbox2.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="https://informatica-urbino.googlecode.com/svn/trunk/common_apps/slimbox-2-04/css/slimbox2.css" type="text/css" media="screen"></link>
 	
 	<!-- carousel1 script & params -->
 	<script type="text/JavaScript">

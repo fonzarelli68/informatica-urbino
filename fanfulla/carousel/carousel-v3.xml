@@ -27,7 +27,7 @@
 		xRadius: 416,
 		yRadius: 100,
 		xPos: 480,
-		yPos: 115,
+		yPos: 130,
 		titleBox: $('#alberi-title'),
 		altBox: $('#alberi-alt'),
 		reflHeight: 100,

@@ -1,5 +1,5 @@
 <Module>
-<ModulePrefs title="Fantasmagorie" description='fantasmagorie della natura,quando il sogetto è al di là del quadro' author='Fanfulla Croci "Giorgio"' author_email='fanfulla.cg@gmail.com' author_location='Montefelcino (PU), Italy' author_link='https://plus.google.com/u/0/117766603574578509809/about' author_aboutme="Musicista e fotografo amatore, ma non solo..." author_quote='Sakan arbor' />
+<ModulePrefs title="Fantasmagorie" description="fantasmagorie della natura: quando il sogetto è al di là dell'oggetto" author='Fanfulla Croci "Giorgio"' author_email='fanfulla.cg@gmail.com' author_location='Montefelcino (PU), Italy' author_link='https://plus.google.com/u/0/117766603574578509809/about' author_aboutme="Musicista e fotografo amatore, ma non solo..." author_quote='Sakan arbor' />
 <Content type="html">
 <![CDATA[
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -114,13 +114,13 @@
 		margin-top:0px;
 		font-size:14px;
 		font-weight:bold;
-		
 	}
+
 	</style>
 	
 </head>
 <body>
-	<div id="carousel1" style="width: 960px; height: 640px; background:#000000; overflow:scroll;">
+	<div id="carousel1" style="width: 960px; height: 640px; background:#000000; overflow:visible;">
 		<p id="ctitle">Visioni Fantasmagoriche&nbsp;-&nbsp;<a href="http://www.fanfullacroci.it/opere-fotografiche" target="_blank" title="Visioni Fantasmagoriche">Opere Fotografiche</a>
 		</p>
 			<div id="left-but" class="dir">&nbsp;</div>

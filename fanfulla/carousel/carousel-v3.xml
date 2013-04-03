@@ -51,7 +51,7 @@
 	
 	#carousel1 img {
 		border: none;
-		max-height: 300px;
+		max-height: 250px;
 	}
 	
 	#ctitle {

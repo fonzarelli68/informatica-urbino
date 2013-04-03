@@ -30,7 +30,7 @@
 		yPos: 145,
 		titleBox: $('#alberi-title'),
 		altBox: $('#alberi-alt'),
-		reflHeight: 100,
+		reflHeight: 90,
 		reflGap: 3,
 		reflOpacity: 0.3,
 		speed: 0.25,
@@ -120,7 +120,7 @@
 	
 </head>
 <body>
-	<div id="carousel1" style="width: 960px; height: 600px; background:#000000; overflow:scroll;">
+	<div id="carousel1" style="width: 960px; height: 640px; background:#000000; overflow:scroll;">
 		<p id="ctitle">Visioni Fantasmagoriche&nbsp;-&nbsp;<a href="http://www.fanfullacroci.it/opere-fotografiche" target="_blank" title="Visioni Fantasmagoriche">Opere Fotografiche</a>
 		</p>
 			<div id="left-but" class="dir">&nbsp;</div>

@@ -2,7 +2,7 @@
 <ModulePrefs title="AddGodaddySeal_ToGooglesite" height="50" width="100" thumbnail="" author="Garima Raj" description="Gadget for adding GoDaddy Seal script code in webpage of google site" author_email="garimachief@gmail.com"/>
 <Content type="html">
 <![CDATA[
-<span id="cdSiteSeal3"><script type="text/javascript" src="//tracedseals.starfieldtech.com/siteseal/get?scriptId=cdSiteSeal3&amp;cdSealType=Seal3&amp;sealId=55e4ye7y7mb73b0803ac02071b38d10p9buy7mb7355e4ye73058cc5ca9185da8"></script></span>
+<span id="cdSiteSeal3"><script type="text/javascript" src="//tracedseals.starfieldtech.com/siteseal/get?scriptId=cdSiteSeal3&amp;cdSealType=Seal3&amp;sealId=55e4ye7y7mb73b0803ac02071b38d10p9buy7mb7355e4ye73058cc5ca9185da8"></script><br/><a id="gdUrl" style="font-family: arial; font-size: 1px" href="http://www.godaddy.com/hosting/website-builder.aspx" target="_blank">Website Builder</a></span>
 ]]>
 </Content>
 </Module>
